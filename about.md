@@ -37,30 +37,22 @@ https://github.com/noga-ba/Noga-Mano_Lab_notebook
    
 
 ### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
-- Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
-- Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta* - Master 2 Degree Thesis Report   
-- Évaluation du blanchissement corallien sur les coraux des lagons de Polynésie Française lors de l’épisode 2019 – Master 1 Degree Thesis Report   
-- Effet de l’acidification des océans sur les coraux scléractiniaires – Bachelor Degree Thesis Report   
+   
 	   
 ### SCHOLARSHIPS AND AWARDS
-- Master degree 1 and 2 Awarded with Honors   
-- Scholarships for academic excellence are not given in France, but are income based   
-- Technical Specialist Diploma (DU) Awarded with Honors   
+
 
 ### TEACHING AND EDUCATION
-- Université de Lorraine 
-	- Coral Reef Informational Presentations to Bachelor students   
-	- Coral Reef Informational Presentations to Highschool students 
-- French/English Translation of educational materials in person and online   
+  
 
 ### CONFERENCE
-- Benthic Ecology Meeting - NH, Portsmouth, USA 
-	- Effects of thermal stress and thermal priming on larvae of the reef 	  building coral *Pocillopora acuta*
+- ***Marine Science School - Get Together 2025***
 
 ### SKILLS 
-- PADI Advanced Open Water SCUBA Diving
-- Permis Mer – French Boating License for Coastal Waters
-- Languages – French (Native), English (Fluent oral and written)
-- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
+- CMAS Open Water SCUBA Diving
+- Driving Liscence
+- Languages – Hebrew (native language), English (Fluent oral and written), Spanish (Basic)
+- Software – R/Rstudio, Microsoft Excel/Word/Powerpoint, GitHub
+- Organize, helpfull, self learning, independent and team worker, good relationship person
 
 
