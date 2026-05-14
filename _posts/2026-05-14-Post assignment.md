@@ -42,7 +42,9 @@ Two sets of six wells plates inoculated with bacteria:
 - Treatment 4: Bacteria strain #4
 - Treatment 5: Bacteria strain #5
 - Treatment 6: Control (MB medium)
-Planulae will be divided into groups (n=10). Each group will be located in a well X six replicates. Larvae were randomly distributed among treatments to avoid bias.
+Planulae will be divided into groups (n=10).
+
+Each group will be located in a well X six replicates. Larvae were randomly distributed among treatments to avoid bias.
 
 <img width="452" height="453" alt="entire well" src="https://github.com/user-attachments/assets/49ce85c0-0cd4-41e6-b5b8-e2281fd9745e" />
 
