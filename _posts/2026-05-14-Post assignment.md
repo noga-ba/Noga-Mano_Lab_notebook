@@ -5,21 +5,27 @@
 ##### Noga Mano, 029354719 
 ##### 13/05/2026 
 
+
 ### **Experiment Protocol**
+
 
 ### Experiment title: The effect of bacteria on planulae settlement 
 -------------------------------------------------------------------
 
+
 ### **Introduction**
 Coral reefs are essential for marine ecosystems and human livelihoods, yet they have experienced significant, global, rapid decline due to natural and human-induced stressors. A promising way to recover coral reefs is to enhance larval recruitment. Indeed, many present scientists are focusing on finding the key factors for successful larval settlement – physically, chemically and biologically.
+
 
 ### **Research Question**:
 How do different bacterial species affect larval recruitment, settlement and survival of primary polyps of the coral *Stylophora pistillata*?
 
+
 ### **Research hypothesis (for every bacteria species)**:
 - H0 – The bacterial strain has no effect on larval recruitment of the coral *Stylophora pistillata*
 - H1 - The bacterial strain affects larval recruitment of the coral *Stylophora pistillata*
- 
+
+
 ### **Methods**
 #### **Variables:**
 ·         Independent Variable: Bacteria strain
@@ -47,15 +53,15 @@ Planulae will be divided into groups (n=10).
 
 Each group will be located in a well X six replicates. Larvae were randomly distributed among treatments to avoid bias.
 
-<img width="452" height="453" alt="entire well" src="https://github.com/user-attachments/assets/49ce85c0-0cd4-41e6-b5b8-e2281fd9745e" />
 
+<img width="452" height="453" alt="entire well" src="https://github.com/user-attachments/assets/49ce85c0-0cd4-41e6-b5b8-e2281fd9745e" />
 ###### _Figure 1: An entirely well photo_
 
-<img width="1500" height="2000" alt="daily observation" src="https://github.com/user-attachments/assets/675fe595-416f-4740-be05-4c38b70f648c" />
 
+<img width="1500" height="2000" alt="daily observation" src="https://github.com/user-attachments/assets/675fe595-416f-4740-be05-4c38b70f648c" />
 ###### _Figure 2: Daily observation and data collection under binocular,notes for coral planulae settlement experiment in the lab_
 
-Table 1: Data collection
+##### _Table 1: Data collection_
 |**Date**  |**Time**  |**Treatment**|**Swimming**|**Settled**|**Survival (%)**|
 |----------|----------|-------------|------------|-----------|----------------|
 |01/05/2026|10:00    |#1           |7           |3          |100             | 
