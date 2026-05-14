@@ -44,10 +44,10 @@ Two sets of six wells plates inoculated with bacteria:
 - Treatment 6: Control (MB medium)
 Planulae will be divided into groups (n=10). Each group will be located in a well X six replicates. Larvae were randomly distributed among treatments to avoid bias.
 
-![An entirely well photo](images/entire well.JPG)
+![<img width="452" height="453" alt="entire well" src="https://github.com/user-attachments/assets/49ce85c0-0cd4-41e6-b5b8-e2281fd9745e" />
 Figure 1: An entirely well photo
 
-![Daily observation notes for coral planulae settlement experiment showing labeled bacterial treatments and settlement outcomes on a laboratory observation sheet](images/daily observation.jpeg)
+<img width="1500" height="2000" alt="daily observation" src="https://github.com/user-attachments/assets/675fe595-416f-4740-be05-4c38b70f648c" />
 Figure 2: Daily observation and data collection under binocular,notes for coral planulae settlement experiment in the lab.
 
 Table 1: Data collection
