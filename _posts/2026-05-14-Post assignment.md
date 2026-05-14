@@ -62,14 +62,15 @@ Each group will be located in a well X six replicates. Larvae were randomly dist
 ###### _Figure 2: Daily observation and data collection under binocular,notes for coral planulae settlement experiment in the lab_
 
 ##### _Table 1: Data collection_
-|**Date**  |**Time**  |**Treatment**|**Swimming**|**Settled**|**Survival (%)**|
-|----------|----------|-------------|------------|-----------|----------------|
-|01/05/2026|10:00    |#1           |7           |3          |100             | 
-|01/05/2026|10:00    |#2            |2            |5           |70               | 
-|01/05/2026|10:00    |#3            |10           |0           |100              | 
-|01/05/2026|10:00    |#4            |6            |3           |90               | 
-|01/05/2026|10:00    |#5            |5            |5           |100              | 
-|01/05/2026|10:00    |Control       |4            |5           |90               | 
+| Date | Time | Treatment | Swimming | Settled | Survival (%) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 01/05/2026 | 10:00 | #1 | 7 | 3 | 100 |
+| 01/05/2026 | 10:00 | #2 | 2 | 5 | 70 |
+| 01/05/2026 | 10:00 | #3 | 10 | 0 | 100 |
+| 01/05/2026 | 10:00 | #4 | 6 | 3 | 90 |
+| 01/05/2026 | 10:00 | #5 | 5 | 5 | 100 |
+| 01/05/2026 | 10:00 | Control | 4 | 5 | 90 |
+
 
 #### **Scientific Refernce**
 [**Strain-specific surface polysaccharides mediate bacterial induction of metamorphosis in the coral *Pocillopora acuta***](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgag159/8672778)
