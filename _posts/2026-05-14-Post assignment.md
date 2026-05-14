@@ -1,13 +1,13 @@
 ### **Homework Assignment** 
 
-# **GITHUB POST** 
+# _**GITHUB POST**_ 
 
 ##### Noga Mano, 029354719 
 ##### 13/05/2026 
 
 ### **Experiment Protocol**
 
-### **Experiment title: *_The effect of bacteria on planulae settlement_***
+### Experiment title: _*The effect of bacteria on planulae settlement*_
 
 ### **Introduction**
 Coral reefs are essential for marine ecosystems and human livelihoods, yet they have experienced significant, global, rapid decline due to natural and human-induced stressors. A promising way to recover coral reefs is to enhance larval recruitment. Indeed, many present scientists are focusing on finding the key factors for successful larval settlement – physically, chemically and biologically.
