@@ -44,29 +44,27 @@ Two sets of six wells plates inoculated with bacteria:
 - Treatment 6: Control (MB medium)
 Planulae will be divided into groups (n=10). Each group will be located in a well X six replicates. Larvae were randomly distributed among treatments to avoid bias.
 
-![<img width="452" height="453" alt="entire well" src="https://github.com/user-attachments/assets/49ce85c0-0cd4-41e6-b5b8-e2281fd9745e" />
+<img width="452" height="453" alt="entire well" src="https://github.com/user-attachments/assets/49ce85c0-0cd4-41e6-b5b8-e2281fd9745e" />
+
 Figure 1: An entirely well photo
 
 <img width="1500" height="2000" alt="daily observation" src="https://github.com/user-attachments/assets/675fe595-416f-4740-be05-4c38b70f648c" />
+
 Figure 2: Daily observation and data collection under binocular,notes for coral planulae settlement experiment in the lab.
 
 Table 1: Data collection
-|:**Date**:|:**Time**:|:**Treatment**:|:**Swimming**:|:**Settled**:|:**Survival (%)**:|
-|----------|----------|---------------|--------------|-------------|------------------|
-|01/05/2026|:10:00    |:#1            |:7            |:3           |:100              | 
-|----------|----------|---------------|--------------|-------------|------------------|
-|01/05/2026|:10:00    |:#2            |:2            |:5           |:70               | 
-|----------|----------|---------------|--------------|-------------|------------------|
-|01/05/2026|:10:00    |:#3            |:10           |:0           |:100              | 
-|----------|----------|---------------|--------------|-------------|------------------|
-|01/05/2026|:10:00    |:#4            |:6            |:3           |:90               | 
-|----------|----------|---------------|--------------|-------------|------------------|
-|01/05/2026|:10:00    |:#5            |:5            |:5           |:100              | 
-|----------|----------|---------------|--------------|-------------|------------------|
-|01/05/2026|:10:00    |:Control       |:4            |:5           |:90               | 
+|**Date**  |**Time**  |**Treatment**|**Swimming**|**Settled**|**Survival (%)**|
+|----------|----------|-------------|------------|-----------|----------------|
+|01/05/2026|10:00    |#1           |7           |3          |100             | 
+|01/05/2026|10:00    |#2            |2            |5           |70               | 
+|01/05/2026|10:00    |#3            |10           |0           |100              | 
+|01/05/2026|10:00    |#4            |6            |3           |90               | 
+|01/05/2026|10:00    |#5            |5            |5           |100              | 
+|01/05/2026|10:00    |Control       |4            |5           |90               | 
 
 #### **Scientific Refernce**
 [**Strain-specific surface polysaccharides mediate bacterial induction of metamorphosis in the coral *Pocillopora acuta***](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgag159/8672778)
 
+#### **Device Protocol**
 [**LCEN-404 Clinical Centrifuge** Manual](https://www.mrclab.co.il/Media/Doc/LCEN-404_OPR_VER2.PDF)
 
