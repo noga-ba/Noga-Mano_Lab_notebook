@@ -6,7 +6,7 @@
 ##### 13/05/2026 
 
 
-### **Experiment Protocol**
+### **<center>Experiment Protocol</center>**
 
 
 ### Experiment title: The effect of bacteria on planulae settlement 
