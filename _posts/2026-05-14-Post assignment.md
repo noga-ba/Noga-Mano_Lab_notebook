@@ -60,14 +60,6 @@ _Figure 1: An entirely well photo_
 
 
 ##### _Table 1: Survival rate bacteria strain #3_
-| Date | Time | Replica | Swimming | Settled | Survival (%) |
-|------|------|---------|----------|---------|--------------|
-| 01/05/2026 | 10:00 | #1 | 7 | 3 | 100 |
-| 01/05/2026 | 10:00 | #2 | 2 | 5 | 70 |
-| 01/05/2026 | 10:00 | #3 | 10 | 0 | 100 |
-| 04/05/2026 | 09:00 | #1 | 6 | 3 | 90 |
-| 04/05/2026 | 09:00 | #2 | 1 | 5 | 60 |
-| 04/05/2026 | 09:00 | #3 | 4 | 5 | 90 |
 
 <table style="border-collapse: collapse; width: 100%; text-align: center;">
   <thead>
