@@ -57,8 +57,7 @@ Each group will be located in a well X six replicates. Larvae were randomly dist
 <img width="452" height="453" alt="entire well" src="https://github.com/user-attachments/assets/49ce85c0-0cd4-41e6-b5b8-e2281fd9745e" />
 ###### _Figure 1: An entirely well photo_
 
-
-<img src="PATH_TO_IMAGE" style="width: 500px; height: auto;"> alt="daily observation" src="https://github.com/user-attachments/assets/675fe595-416f-4740-be05-4c38b70f648c" />
+<img width="1500" height="2000" alt="daily observation" src="https://github.com/user-attachments/assets/675fe595-416f-4740-be05-4c38b70f648c" />
 ###### _Figure 2: Daily observation and data collection under binocular,notes for coral planulae settlement experiment in the lab_
 
 ##### _Table 1: Survival rate bacteria strain #3_
