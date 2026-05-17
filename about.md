@@ -45,7 +45,7 @@ https://github.com/noga-ba/Noga-Mano_Lab_notebook
 
 ### Teaching and Education Experience
 
-2019-2020 | ***Kinneret College - the school for gifted children*** - Creating and teaching Marine Biology semestrial course
+2019-2020 | ***Kinneret College - the school for gifted children*** - Writing and Teaching Marine Biology semestrial program
 
 2017-2019 | ***Green Step*** - Coordinating of environmental education programs in municipalities, facilitating leadership groups of school students, advising schools, teachers and kindergartners in environmental educational programs: 'Conservation of species diversity in the urban nature', 'Energy efficiency', 'Our path', 'Species diversity as a bio-indicator of air quality' – a research program and survey for elementary schools I developed and guided.
 
