@@ -73,15 +73,15 @@ _Figure 1: An entirely well photo_
 |**Species**|**Direction**|**Min**|**Max**|**Mean**|**SE**|
 |:---|:---|:---|:---|:---|:---|
 |_Heliofungia actiniformis_|Horizontal|1.15|1.90|1.57|0.09|
-|_Pocillopora damicornis_|Horizontal|1.67|1.88|1.78|n/a|
-|_Pocillopora damicornis_|Horizontal|0.08|3.09|2.01|0.07|
+|_Pocillopora damicornis_|Horizontal|1.67|1.88|1.78^|n/a|
+|_Pocillopora damicornis_|Horizontal|0.08|3.09|2.01*|0.07|
 |_Coelastrea aspera_|Horizontal|2.00|3.45|2.73|n/a|
 |_Heliofungia actiniformis_|Up|0.90|2.65|1.66|0.09|
 |_Agaricia tenuifolia_|Up|1.04|3.16|2.10|0.20|
 
 ##### Table 1: Swimming speeds (in mm s−1) for hermatypic scleractinian coral larvae. n is number of larvae; SE is
-standard error; ^ is the mean calculated as average of maximum (max) and minimum (min) value; * is the mean
-calculated from larvae aged 2 to 7 days old; n/a is not available
+##### standard error; ^ is the mean calculated as average of maximum (max) and minimum (min) value; * is the mean
+##### calculated from larvae aged 2 to 7 days old; n/a is not available
 (Based on Hata et al., 2017)
 
 
