@@ -63,7 +63,7 @@ Each group will be located in a well X six replicates. Larvae were randomly dist
 
 ##### _Table 1: Survival rate bacteria strain #3_
 | Date | Time | Replica | Swimming | Settled | Survival (%) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+|------|------|---------|----------|---------|--------------|
 | 01/05/2026 | 10:00 | #1 | 7 | 3 | 100 |
 | 01/05/2026 | 10:00 | #2 | 2 | 5 | 70 |
 | 01/05/2026 | 10:00 | #3 | 10 | 0 | 100 |
