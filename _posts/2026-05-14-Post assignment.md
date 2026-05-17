@@ -60,69 +60,15 @@ _Figure 1: An entirely well photo_
 
 
 ##### _Table 1: Survival rate bacteria strain #3_
-
-<table style="border-collapse: collapse; width: 100%; text-align: center;">
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>Time</th>
-      <th>Replica</th>
-      <th>Swimming</th>
-      <th>Settled</th>
-      <th>Survival (%)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>01/05/2026</td>
-      <td>10:00</td>
-      <td>#1</td>
-      <td>7</td>
-      <td>3</td>
-      <td>100</td>
-    </tr>
-    <tr>
-      <td>01/05/2026</td>
-      <td>10:00</td>
-      <td>#2</td>
-      <td>2</td>
-      <td>5</td>
-      <td>70</td>
-    </tr>
-    <tr>
-      <td>01/05/2026</td>
-      <td>10:00</td>
-      <td>#3</td>
-      <td>10</td>
-      <td>0</td>
-      <td>100</td>
-    </tr>
-    <tr>
-      <td>04/05/2026</td>
-      <td>09:00</td>
-      <td>#1</td>
-      <td>6</td>
-      <td>3</td>
-      <td>90</td>
-    </tr>
-    <tr>
-      <td>04/05/2026</td>
-      <td>09:00</td>
-      <td>#2</td>
-      <td>1</td>
-      <td>5</td>
-      <td>60</td>
-    </tr>
-    <tr>
-      <td>04/05/2026</td>
-      <td>09:00</td>
-      <td>#3</td>
-      <td>4</td>
-      <td>5</td>
-      <td>90</td>
-    </tr>
-  </tbody>
-</table>
+|Date|Time|Replica|Swimming|Settled|Survival(%)|
+|:---|:---|:---|:---|:---|:---|
+|01/05/2026|10:00|#1|7|3|100|
+|01/05/2026|10:00|#2|2|5|70|
+|01/05/2026|10:00|#3|10|0|100|
+|04/05/2026|08:00|#1|6|3|90|
+|04/05/2026|08:00|#2|1|5|60|
+|04/05/2026|08:00|#3|4|3|90| 
+   
 
 #### **Scientific Refernce**
 [**Strain-specific surface polysaccharides mediate bacterial induction of metamorphosis in the coral *Pocillopora acuta***](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgag159/8672778)
