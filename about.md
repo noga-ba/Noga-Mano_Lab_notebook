@@ -50,7 +50,7 @@ https://github.com/noga-ba/Noga-Mano_Lab_notebook
 
 2017-2019 ***Green Step*** - Coordinating of environmental education programs in municipalities, facilitating leadership groups of school students, advising schools, teachers and kindergartners in environmental educational programs: 'Conservation of species diversity in the urban nature', 'Energy efficiency', 'Our path', 'Species diversity as a bio-indicator of air quality' – a research program and survey for elementary schools I developed and guided.
 
-2003-2006 Led educational groups in **multiple organizations** focused on the marine environment, delivering guided experiences and environmental education programs of the following organizations: **Nature and Parks Authority (Ratag)**, **Eco-Ocean**, **Israel Oceanographic and Limnological Research (IOLR Haifa)**, **SEAOR Marine**.
+2003-2006 Leading groups in **multiple organizations** focusing on the marine environmental educational programs of the following organizations: **Nature and Parks Authority (Ratag)**, **Eco-Ocean**, **Israel Oceanographic and Limnological Research (IOLR Haifa)**, **SEAOR Marine**.
 
  
 ### Conference
@@ -64,7 +64,7 @@ https://github.com/noga-ba/Noga-Mano_Lab_notebook
 - English - fluent
 - Spanish - Basic
 ### Technical Skills
-- Microsoft Excel/Word/Powerpoint
+- Office
 - Monday
 - GitHub
 - R / Rstudio
