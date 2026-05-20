@@ -20,6 +20,7 @@ https://github.com/noga-ba/Noga-Mano_Lab_notebook
 <center>Haifa, Israel</center> 
 
 **A Master student in MassLab, located at the Marine Science School in Haifa University**
+
 **My project focus on enhancement of larval recruitment on artificial beds by microbial biofilm**
  
 
