@@ -29,8 +29,7 @@ https://github.com/noga-ba/Noga-Mano_Lab_notebook
 2021 | **Heschel Institute** The Key: From Crisis to Opportunity
 2020 | **Heschel Institute** Health in the Residential Environment
 2019 | **Karkur College** Consultants in Sustainable Ecology course (160 hrs) 
-1997-2000 | **Israeli Maritime College** Environmental Science | Marine Science
-	- B. Sc  
+1997-2000 | **Israeli Maritime College** Environmental Science | Marine Science	- B. Sc   
 
 ### Professional Experience
 
