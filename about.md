@@ -11,7 +11,7 @@ https://github.com/noga-ba/Noga-Mano_Lab_notebook
 
 ### Contact me
 
-[nogaba@gmail.com](mailto:Pierrick_harnay@uri.com)
+[nogaba@gmail.com](mailto:nogaba@gmail.com)
 
 
 ## <center>Noga Mano</center>
