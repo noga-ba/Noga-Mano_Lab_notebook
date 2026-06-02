@@ -42,7 +42,7 @@
 - Save the document.
  
 #### **2.	Performing multiple sequence alignment (ClustalW in MEGA)**
--	Open MEGA
+-	Open MEGA software
 -	Choose: 'Align' --> Edit/Build Alignment --> Create a New Alignment
 -	Copy each sequence, **including headers** from the Word document
 -	Choose: Alignment --> Align by ClustalW
@@ -141,5 +141,14 @@ See Primer-BLAST results:
 ## **Construct a phylogenetic tree**
 ##### **A phylogenetic tree is constructed to infer evolutionary relationships among organisms and to accurately identify species by comparing genetic sequences and determining their similarity to known taxa.**
 
-1. Based on the protocol above, go back to MEGA
+1. Based on the protocol above, go back to MEGA software
+2. Open your .MAS file
+3. Press **'PHYLOGENY'** icon
+4. Choose **'Construct/Test Neighbour-Joining Tree'** --> **OK**
+5. In the openning table, change:
+- 'Test of phylogeny' to **'Boostrap method'**
+- 'Substitution' to **'Nucleotide'**
+- 'Model/Method' to **'Kimura 2-parameter model'**
+6. Get the output and save.
+  
 
