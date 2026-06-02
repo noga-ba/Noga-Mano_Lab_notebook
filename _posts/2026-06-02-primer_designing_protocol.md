@@ -53,14 +53,16 @@
 
 #### **4.	Sequence extract for primer design**
 > -	Open Primer3web - https://primer3.ut.ee/
-> -	From the word document, copy a sequence segment of ~1000 bases from the result that you chose, and paste it into the window 
-
-
-
+> -	From the word document, copy a sequence segment of ~1000 bases from the result that you chose, and paste it into the window
 > -	Press "Pick Primers" - you get the output of the primer you designed.
-> -	Copy the first table and order the primer.
 
-## photo XXX
+**Figure 5: Paste the sequense into the open window**
+![images/primer3web.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/15f5103f64180a3cd747b2b59d0ebead6d1b0d47/images/primer3web.jpg)
+
+> - Get the output and copy the first table and order the primer.
+
+**Figure 6: The output table of the primer designed**
+
 
 ## להעלות את הקובץ של גרצילריה
 ## Primer3 Output: https://primer3.ut.ee/cgi-bin/primer3/primer3web_results.cgi 
