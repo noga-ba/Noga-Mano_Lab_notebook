@@ -1,4 +1,4 @@
-# **Project Title: Primer Design and Phylogenetic Analysis of *Gracilaria* sp. Using the 18S ribosomal RNA (rRNA) Gene** 
+<img width="253" height="83" alt="image" src="https://github.com/user-attachments/assets/9579b9b8-1def-43e9-a26a-ad3cb96835cd" /># **Project Title: Primer Design and Phylogenetic Analysis of *Gracilaria* sp. Using the 18S ribosomal RNA (rRNA) Gene** 
 
 ### Noga Mano, 029354719
 ### 03/06/2026
@@ -23,7 +23,7 @@
 > -	Enter each result and press FASTA [gracilaria_seq.md](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/0bc75c9e61229e85b05f6dd92a42b5e39867acd5/gracilaria_seq.md)
 > - Select sequences containing minimal ambiguous bases (Ns) within the target gene region.
 
-images/withnnnn.jpg 
+(images/withnnnn.jpg)[images/withnnnn.jpg]
 
 > - Copy and paste the sequence, including its header, to the document. 
 
