@@ -20,7 +20,7 @@
 >> o	Look for: "complete sequence"
 > -	Open a WORD document.
 > -	Choose 6-8 results. 
-> -	Enter each result and press FASTA (path/to/file)[gracilaria_seq.md]
+> -	Enter each result and press FASTA [gracilaria_seq.md]
 > - Select sequences containing minimal ambiguous bases (Ns) within the target gene region.
 
 ## (להוסיף screenshots)(להוסיף screenshots של עם ובלי NNN) 
