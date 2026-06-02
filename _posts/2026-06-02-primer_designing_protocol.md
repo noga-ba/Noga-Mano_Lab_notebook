@@ -1,4 +1,4 @@
-<img width="253" height="83" alt="image" src="https://github.com/user-attachments/assets/9579b9b8-1def-43e9-a26a-ad3cb96835cd" /># **Project Title: Primer Design and Phylogenetic Analysis of *Gracilaria* sp. Using the 18S ribosomal RNA (rRNA) Gene** 
+#**Project Title: Primer Design and Phylogenetic Analysis of *Gracilaria* sp. Using the 18S ribosomal RNA (rRNA) Gene** 
 
 ### Noga Mano, 029354719
 ### 03/06/2026
