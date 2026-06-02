@@ -70,8 +70,8 @@
 
 
 - Look at the first table of the output, and identify:
-o Forward primer sequence & position
-o Reverse primer sequence & position
+o Forward primer (LEFT = >>>>>>) sequence & position
+o Reverse primer (RIGHT = <<<<<<) sequence & position
 o Primer length
 o Tm - the difference should not be >3 
 o %GC - 40%-60%
@@ -85,9 +85,9 @@ o Expected amplicon size
 
 ##### Primer3 Output link: https://primer3.ut.ee/cgi-bin/primer3/primer3web_results.cgi 
 
- o Forward (LEFT = >>>>>>) primer sequence: TGAGAGACGGCTACCACATC. Position - starts at 354
+ o Forward primer sequence: TGAGAGACGGCTACCACATC. Position - starts at 354
  
- o Reverse (RIGHT = <<<<<<) primer sequence: TCTGCTGGCTCCTCGATAAG. Position - starts at 507
+ o Reverse primer sequence: TCTGCTGGCTCCTCGATAAG. Position - starts at 507
  
  o Primer length: 20 | 20
  
