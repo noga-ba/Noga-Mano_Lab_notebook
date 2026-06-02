@@ -40,7 +40,8 @@
 > -	Copy each sequence, including its title, from the Word document
 > -	Choose Alignment Align by ClustalW
 
-![Alignment of multiple sequences](images/allignment.jpg)
+**Figure 3: Alignment of selected *Gracilaria* sp. 18S rRNA gene sequences**
+![images/allignment.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/13d04279d461861995f35027d5f94c0c4a9dc7ff/images/allignment.jpg))
 
 
 #### **3.	Identifying conserved regions across species**
