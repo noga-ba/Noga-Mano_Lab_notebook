@@ -45,7 +45,9 @@
 
 
 #### **3.	Identifying conserved regions across species**
-> -	Look at the uniformity / differences between the sequences: choose a representative complete sequence, with a conserved region (~1000 bp) without gaps, yet variable to allow discrimination between species.
+> -	Look at the uniformity and differences between the sequences: choose a representative complete sequence, with a conserved region  without gaps, yet variable to allow discrimination between species.
+
+
 
 #### **4.	Sequence extract for primer design**
 > -	Open Primer3web - https://primer3.ut.ee/
