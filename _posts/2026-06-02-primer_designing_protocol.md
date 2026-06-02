@@ -105,5 +105,6 @@ o Hairpins - low <2
 - Get your report at the next stage of the Primer-BLAST process and save it.
 - To check the specificity of the primer you have designed, repeat the process with wider options: go back one step and change 'Organism' twice (or more) to: (1) group name (e.g red algae, Rhodophyta, macroalgae) or, (2) totaly different organism (e.g fish, invertebrate).  
 
-See Primer-BLAST results: results/ 
+See Primer-BLAST results:
+1. 
 
