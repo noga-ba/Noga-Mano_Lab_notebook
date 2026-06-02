@@ -89,16 +89,17 @@ o Hairpins - low <2
 - In the line "Reverse primer" - copy the sequence of RIGHT PRIMER from the output table of the primer designed
 - Change "Max" to 250 (fig. 7)
 
-
-add פריימר בלסט ראשון
+**Figure 7: Primer-Blast primer input**
+![images/primer_blast_gracilaria.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/b87c472f5b415b3c3fe6535440d6c6e74d8da27e/images/primer_blast_gracilaria.jpg)
 
 - In the section of "Primer Pair Specifity Checking Parameters":
  o Change 'Database' to "nt"
  o Change 'Organism' to the species you designed you primer
  o Change 'Max target amplicon size' to 4000
 - Press **Get Primers**
-
-add פריימר בלסט שני
+י
+**Figure 8: Primer-Blast for *Gracilaria* sp.**
+![images/primer_blast_gracilaria.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/b87c472f5b415b3c3fe6535440d6c6e74d8da27e/images/primer_blast_gracilaria.jpg)
 
 #### **6. Recieving specific primers to PCR template**
 - Get your report at the next stage of the Primer-BLAST process and save it.
