@@ -70,13 +70,20 @@
 
 
 - Look at the first table of the output, and identify:
-o Forward primer (LEFT = >>>>>>) sequence & position
-o Reverse primer (RIGHT = <<<<<<) sequence & position
-o Primer length
-o Tm - the difference should not be >3 
-o %GC - 40%-60%
-o Hairpins - low <2
-o Expected amplicon size
+
+ o Forward primer (LEFT = >>>>>>) sequence & position
+
+ o Reverse primer (RIGHT = <<<<<<) sequence & position
+ 
+ o Primer length
+ 
+ o Tm - the difference should not be >3 
+ 
+ o %GC - 40%-60%
+ 
+ o Hairpins - low <2
+ 
+ o Expected amplicon size
 
 
 **Figure 6: The output table of the primer designed for *Gracilaria***
