@@ -9,6 +9,7 @@
 #### Primer design is widely used for the genetic identification of organisms of scientific and/or economic importance (e.g., in agriculture and biotechnology). In a survey conducted, a red alga was identified as belonging to the genus *Gracilaria*, and the aim is to determine whether it represents a local species or a potentially invasive one.
 #### For species identification, primers were designed for the 18S rRNA gene. This gene is a conserved nuclear marker widely used for molecular identification due to its combination of highly conserved regions, which enable reliable primer design, and variable regions, which allow taxonomic discrimination. However, its relatively low evolutionary rate limits its resolution at the species level, particularly among closely related taxa, and it often requires the use of additional, more variable markers. The designed primers are intended to amplify the target region for sequencing and subsequent phylogenetic analysis to determine the species identity and origin.
 
+
 ### **Primer designing workflow:**
 #### **1.	Retrieving 18S rRNA sequences from NCBI**
 -	Enter NCBI: https://www.ncbi.nlm.nih.gov/nuccore 
@@ -76,15 +77,32 @@ o Hairpins - low <2
 
 ![images/primer_table.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/e02a55c7054ccd42fca167bee583e85017a7fd2d/images/primer_table.jpg)
 
-o Tm = 58.90 / 58.96 --> ✔  
-o %GC = 55% --> ✔  
-o Hairpins = 0.00 --> ✔
+ o Tm = 58.90 / 58.96 --> ✔  
+ o %GC = 55% --> ✔  
+ o Hairpins = 0.00 --> ✔
 
 ##### Primer3 Output link: https://primer3.ut.ee/cgi-bin/primer3/primer3web_results.cgi 
 
 #### **5. Verification of Primer Specificity**
 - Open NCBI Primer BLAST - https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?GROUP_TARGET=on
-- In the line "Forward primer" copy the sequence of LEFT PRIMER from the output table of the primer designed
-- In the line "Reverse primer" copy the sequence of RIGHT PRIMER from the output table of the primer designed
-- Make sure:
-  o Tm
+- In the line "Forward primer" - copy the sequence of LEFT PRIMER from the output table of the primer designed
+- In the line "Reverse primer" - copy the sequence of RIGHT PRIMER from the output table of the primer designed
+- Change "Max" to 250 (fig. 7)
+
+
+add פריימר בלסט ראשון
+
+- In the section of "Primer Pair Specifity Checking Parameters":
+ o Change 'Database' to "nt"
+ o Change 'Organism' to the species you designed you primer
+ o Change 'Max target amplicon size' to 4000
+- Press **Get Primers**
+
+add פריימר בלסט שני
+
+#### **6. Recieving specific primers to PCR template**
+- Get your report at the next stage of the Primer-BLAST process and save it.
+- To check the specificity of the primer you have designed, repeat the process with wider options: go back one step and change 'Organism' twice (or more) to: (1) group name (e.g red algae, Rhodophyta, macroalgae) or, (2) totaly different organism (e.g fish, invertebrate).  
+
+ להוסיף את הקבצים של הפריימרים 
+
