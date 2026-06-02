@@ -57,7 +57,9 @@
 
 #### **4.	Sequence extract for primer design**
 -	Open Primer3web - https://primer3.ut.ee/
--	From the word document, copy a sequence segment of ~1000 bases from the result that you chose, and paste it into the window
+-	From the word document, copy a sequence segment of ~1000 bases from the result that you chose, and paste it into the window.
+  
+**NOTE: Primer3 should receive a single clean DNA sequence. Make sure you are not pasting a ClustalW alignment with gaps, stars, spaces, or multiple species**
 -	Press "Pick Primers" - you get the output of the primer you designed.
 
 **Figure 5: Paste the sequense into the open window**
