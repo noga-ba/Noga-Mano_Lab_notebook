@@ -53,7 +53,10 @@
 
 #### **4.	Sequence extract for primer design**
 > -	Open Primer3web - https://primer3.ut.ee/
-> -	From the word document, copy a sequence of ~1000 bases from the result that you chose, and paste it into the window (figure #XXX).
+> -	From the word document, copy a sequence segment of ~1000 bases from the result that you chose, and paste it into the window 
+
+
+
 > -	Press "Pick Primers" - you get the output of the primer you designed.
 > -	Copy the first table and order the primer.
 
