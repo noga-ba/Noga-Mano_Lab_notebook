@@ -67,12 +67,24 @@
 ![images/primer3web.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/15f5103f64180a3cd747b2b59d0ebead6d1b0d47/images/primer3web.jpg)
 
 
-- Copy the first table and order the primer.
+- Look at the first table of the output:
+o Tm - the difference should not be >3 
+o %GC - 40%-60%
+o Hairpins - low <2
 
 **Figure 6: The output table of the primer designed**
 
 ![images/primer_table.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/e02a55c7054ccd42fca167bee583e85017a7fd2d/images/primer_table.jpg)
 
+o Tm = 58.90 / 58.96 --> ✔  
+o %GC = 55% --> ✔  
+o Hairpins = 0.00 --> ✔
+
 ##### Primer3 Output link: https://primer3.ut.ee/cgi-bin/primer3/primer3web_results.cgi 
 
 #### **5. Verification of Primer Specificity**
+- Open NCBI Primer BLAST - https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?GROUP_TARGET=on
+- In the line "Forward primer" copy the sequence of LEFT PRIMER from the output table of the primer designed
+- In the line "Reverse primer" copy the sequence of RIGHT PRIMER from the output table of the primer designed
+- Make sure:
+  o Tm
