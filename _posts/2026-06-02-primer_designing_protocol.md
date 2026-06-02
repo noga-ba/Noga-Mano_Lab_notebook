@@ -23,7 +23,7 @@
 > -	Enter each result and press FASTA [gracilaria_seq.md](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/0bc75c9e61229e85b05f6dd92a42b5e39867acd5/gracilaria_seq.md)
 > - Select sequences containing minimal ambiguous bases (Ns) within the target gene region.
 
-![FASTA sequence containing ambiguous bases (multi Ns)]([images/withnnnn.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/dbef3c00fc9e567db44f9a3bef0d71ba8c15b6e5/images/withnnnn.jpg)) 
+![FASTA sequence containing ambiguous bases (multi Ns)](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/dbef3c00fc9e567db44f9a3bef0d71ba8c15b6e5/images/withnnnn.jpg)
 
 > - Copy and paste the sequence, including its header, to the document. 
 
