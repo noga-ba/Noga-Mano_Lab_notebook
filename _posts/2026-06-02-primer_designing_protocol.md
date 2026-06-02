@@ -1,9 +1,9 @@
-## **Project Title: Primer Design and Phylogenetic Analysis of *Gracilaria* sp. Using the 18S ribosomal RNA (rRNA) Gene** 
+## **Designing primers for algal species identification: Primer Design and Phylogenetic Analysis of *Gracilaria* sp. Using the 18S ribosomal RNA (rRNA) Gene**
 
 ##### Noga Mano, 029354719
 ##### 03/06/2026
 
-## **Primer designing protocol**
+## **Designing primers for algal species identification**
 ### **Introduction:**
 
 #### Primer design is widely used for the genetic identification of organisms of scientific and/or economic importance (e.g., in agriculture and biotechnology). In a survey conducted, a red alga was identified as belonging to the genus *Gracilaria*, and the aim is to determine whether it represents a local species or a potentially invasive one.
@@ -11,10 +11,11 @@
 
 
 ### **Primer designing workflow:**
-#### **1.	Retrieving 18S rRNA sequences from NCBI**
+#### **1.	Collecting 18S rRNA sequences from NCBI**
 -	Enter NCBI: https://www.ncbi.nlm.nih.gov/nuccore 
--	In the search line choose: Nucleotide and type the name of the organism and/or gene: Gracilaria 18S rRNA
--   Choose DNA
+-	In the search line choose: 'Nucleotide'
+-	Type the name of the target organism and/or the gene (e.g. Gracilaria 18S rRNA)
+- Choose **DNA**
 -	In the results:
 
  o	Make sure you choose Gracilaria
@@ -63,23 +64,33 @@
 **NOTE: Primer3 should receive a single clean DNA sequence. Make sure you are not pasting a ClustalW alignment with gaps, stars, spaces, or multiple species**
 -	Press "Pick Primers" - you get the output of the primer you designed.
 
-**Figure 5: Paste the sequense into the open window**
+**Figure 5: Pasting the sequense into the central window**
 
 ![images/primer3web.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/15f5103f64180a3cd747b2b59d0ebead6d1b0d47/images/primer3web.jpg)
 
 
-- Look at the first table of the output:
+- Look at the first table of the output, and identify:
+o Forward primer sequence
+o Reverse primer sequence
+o Primer length
 o Tm - the difference should not be >3 
 o %GC - 40%-60%
 o Hairpins - low <2
+o Expected amplicon size
+o Primer position in the sequence
 
 **Figure 6: The output table of the primer designed**
 
 ![images/primer_table.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/e02a55c7054ccd42fca167bee583e85017a7fd2d/images/primer_table.jpg)
 
- o Tm = 58.90 / 58.96 --> ✔  
- o %GC = 55% --> ✔  
+ o Forward (LEFT) primer sequence: TGAGAGACGGCTACCACATC
+ o Reverse (RIGHT) primer sequence: TCTGCTGGCTCCTCGATAAG
+ o Primer length: 20 | 20
+ o Tm = 58.90 | 58.96 --> ✔  
+ o %GC = 55% | 55% --> ✔  
  o Hairpins = 0.00 --> ✔
+ o Expected amplicon size: 1050
+ o Primer position in the sequence:
 
 ##### Primer3 Output link: https://primer3.ut.ee/cgi-bin/primer3/primer3web_results.cgi 
 
