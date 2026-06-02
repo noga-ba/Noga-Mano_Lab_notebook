@@ -23,15 +23,11 @@
 > -	Enter each result and press FASTA [gracilaria_seq.md](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/0bc75c9e61229e85b05f6dd92a42b5e39867acd5/gracilaria_seq.md)
 > - Select sequences containing minimal ambiguous bases (Ns) within the target gene region.
 
-<<<<<<< Updated upstream
-![FASTA sequence containing ambiguous bases](images/withnnnn.jpg)
-=======
-![FASTA sequence containing ambiguous bases (multi Ns)](images/withnnnn.jpg)
->>>>>>> Stashed changes
+![FASTA sequence containing ambiguous bases (multi Ns)](images/withnnnn.jpg) 
 
 > - Copy and paste the sequence, including its header, to the document. 
 
-![FASTA sequence without ambiguous bases](images/complete.jpg)
+![FASTA sequence *without* ambiguous bases](images/complete.jpg)
 
 
 #### **2.	Performing multiple sequence alignment (ClustalW in MEGA)**
