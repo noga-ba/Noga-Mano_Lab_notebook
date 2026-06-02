@@ -85,6 +85,7 @@ o Expected amplicon size
 
 ##### Primer3 Output link: https://primer3.ut.ee/cgi-bin/primer3/primer3web_results.cgi 
 
+**Primer designed data for *Gracilaria***
 ###### o Forward primer sequence: TGAGAGACGGCTACCACATC. Position - starts at 354
  
 ###### o Reverse primer sequence: TCTGCTGGCTCCTCGATAAG. Position - starts at 507
