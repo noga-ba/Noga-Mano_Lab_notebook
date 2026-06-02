@@ -106,5 +106,8 @@ o Hairpins - low <2
 - To check the specificity of the primer you have designed, repeat the process with wider options: go back one step and change 'Organism' twice (or more) to: (1) group name (e.g red algae, Rhodophyta, macroalgae) or, (2) totaly different organism (e.g fish, invertebrate).  
 
 See Primer-BLAST results:
-1. 
+1. *Gracilaria* 18S rRNA [results/primerblast_gracilaria_18S_rRNA.txt](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/3d0f959141375aaeef75440b3f1e881def80549a/results/primerblast_gracilaria_18S_rRNA.txt)
+2. Red algae - Rhodophyta [results/primerblast_rhodophyta.txt](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/3d0f959141375aaeef75440b3f1e881def80549a/results/primerblast_rhodophyta.txt)
+3. Animal - wild sheep [results/primerblast_wild-sheep.txt](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/3d0f959141375aaeef75440b3f1e881def80549a/results/primerblast_wild-sheep.txt)
+4. General - "Organism" [results/primerblast_organism.txt](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/3d0f959141375aaeef75440b3f1e881def80549a/results/primerblast_organism.txt)
 
