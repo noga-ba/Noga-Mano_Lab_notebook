@@ -99,11 +99,11 @@ o Hairpins - low <2
 - Press **Get Primers**
 י
 **Figure 8: Primer-Blast for *Gracilaria* sp.**
-![images/primer_blast_gracilaria.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/b87c472f5b415b3c3fe6535440d6c6e74d8da27e/images/primer_blast_gracilaria.jpg)
+![images/primer_blast_gracilaria_specific.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/06e3ed9f40c065fc51f7a8febf9f188ed9bc4eb0/images/primer_blast_gracilaria_specific.jpg)
 
 #### **6. Recieving specific primers to PCR template**
 - Get your report at the next stage of the Primer-BLAST process and save it.
 - To check the specificity of the primer you have designed, repeat the process with wider options: go back one step and change 'Organism' twice (or more) to: (1) group name (e.g red algae, Rhodophyta, macroalgae) or, (2) totaly different organism (e.g fish, invertebrate).  
 
- להוסיף את הקבצים של הפריימרים 
+See Primer-BLAST results: results/ 
 
