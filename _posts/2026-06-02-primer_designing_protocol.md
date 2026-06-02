@@ -27,7 +27,7 @@
 
 > - Copy and paste the sequence, including its header, to the document. 
 
-![FASTA sequence *without* ambiguous bases](images/complete.jpg)
+![FASTA sequence *without* ambiguous bases](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/3dc93c0219343012b07fa3f76bcb5f401959dd99/images/complete.jpg)
 
 
 #### **2.	Performing multiple sequence alignment (ClustalW in MEGA)**
