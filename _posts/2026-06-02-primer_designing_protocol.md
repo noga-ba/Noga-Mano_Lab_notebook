@@ -70,30 +70,35 @@
 
 
 - Look at the first table of the output, and identify:
-o Forward primer sequence
-o Reverse primer sequence
+o Forward primer sequence & position
+o Reverse primer sequence & position
 o Primer length
 o Tm - the difference should not be >3 
 o %GC - 40%-60%
 o Hairpins - low <2
 o Expected amplicon size
-o Primer position in the sequence
+
 
 **Figure 6: The output table of the primer designed**
 
 ![images/primer_table.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/e02a55c7054ccd42fca167bee583e85017a7fd2d/images/primer_table.jpg)
 
- o Forward (LEFT) primer sequence: TGAGAGACGGCTACCACATC
- o Reverse (RIGHT) primer sequence: TCTGCTGGCTCCTCGATAAG
- o Primer length: 20 | 20
- o Tm = 58.90 | 58.96 --> ✔  
- o %GC = 55% | 55% --> ✔  
- o Hairpins = 0.00 --> ✔
- o Expected amplicon size: 1050
- o Primer position in the sequence:
-
 ##### Primer3 Output link: https://primer3.ut.ee/cgi-bin/primer3/primer3web_results.cgi 
 
+ o Forward (LEFT = >>>>>>) primer sequence: TGAGAGACGGCTACCACATC. Position - starts at 354
+ 
+ o Reverse (RIGHT = <<<<<<) primer sequence: TCTGCTGGCTCCTCGATAAG. Position - starts at 507
+ 
+ o Primer length: 20 | 20
+ 
+ o Tm = 58.90 | 58.96 --> ✔  
+ 
+ o %GC = 55% | 55% --> ✔  
+ 
+ o Hairpins = 0.00 --> ✔
+ 
+ o Expected amplicon size: 1050
+ 
 #### **5. Verification of Primer Specificity**
 - Open NCBI Primer BLAST - https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?GROUP_TARGET=on
 - In the line "Forward primer" - copy the sequence of LEFT PRIMER from the output table of the primer designed
