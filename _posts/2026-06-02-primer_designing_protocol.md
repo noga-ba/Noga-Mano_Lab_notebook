@@ -25,7 +25,7 @@
  o	Look for: "complete sequence"
  
 -	Open a WORD document.
--	Choose 6-8 results. 
+-	Choose 6-8 results.
 -	Enter each result and press FASTA [gracilaria_seq.md](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/0bc75c9e61229e85b05f6dd92a42b5e39867acd5/gracilaria_seq.md)
 
 - Select sequences containing minimal ambiguous bases (Ns) within the target gene region.
@@ -39,12 +39,14 @@
 ![FASTA sequence *without* ambiguous bases](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/3dc93c0219343012b07fa3f76bcb5f401959dd99/images/complete.jpg)
 
 - Copy and paste the sequence, including its header, to the document.
+- Save the document.
  
 #### **2.	Performing multiple sequence alignment (ClustalW in MEGA)**
 -	Open MEGA
 -	Choose: 'Align' --> Edit/Build Alignment --> Create a New Alignment
 -	Copy each sequence, **including headers** from the Word document
 -	Choose: Alignment --> Align by ClustalW
+-	Save as .MAS file (e.g 
 
 **Figure 3: Alignment of selected *Gracilaria* sp. 18S rRNA gene sequences**
 
@@ -134,4 +136,10 @@ See Primer-BLAST results:
 2. Red algae - Rhodophyta [results/primerblast_rhodophyta.txt](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/3d0f959141375aaeef75440b3f1e881def80549a/results/primerblast_rhodophyta.txt)
 3. Animal - wild sheep [results/primerblast_wild-sheep.txt](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/3d0f959141375aaeef75440b3f1e881def80549a/results/primerblast_wild-sheep.txt)
 4. General - "Organism" [results/primerblast_organism.txt](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/3d0f959141375aaeef75440b3f1e881def80549a/results/primerblast_organism.txt)
+
+
+## **Construct a phylogenetic tree**
+##### **A phylogenetic tree is constructed to infer evolutionary relationships among organisms and to accurately identify species by comparing genetic sequences and determining their similarity to known taxa.**
+
+1. Based on the protocol above, go back to MEGA
 
