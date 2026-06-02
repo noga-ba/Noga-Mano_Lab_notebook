@@ -73,6 +73,6 @@
 
 ![images/primer_table.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/e02a55c7054ccd42fca167bee583e85017a7fd2d/images/primer_table.jpg)
 
-#### Primer3 Output: https://primer3.ut.ee/cgi-bin/primer3/primer3web_results.cgi 
+##### Primer3 Output link: https://primer3.ut.ee/cgi-bin/primer3/primer3web_results.cgi 
 
-חסר שלב 12!!!
+#### **5. Verification of Primer Specificity**
