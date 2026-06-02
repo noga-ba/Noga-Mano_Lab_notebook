@@ -36,9 +36,9 @@
  
 #### **2.	Performing multiple sequence alignment (ClustalW in MEGA)**
 > -	Open MEGA
-> -	Choose 'Align'  Edit/Build Alignment  Create a New Alignment
-> -	Copy each sequence, including its title, from the Word document
-> -	Choose Alignment Align by ClustalW
+> -	Choose: 'Align' --> Edit/Build Alignment --> Create a New Alignment
+> -	Copy each sequence, **including headers** from the Word document
+> -	Choose: Alignment --> Align by ClustalW
 
 **Figure 3: Alignment of selected *Gracilaria* sp. 18S rRNA gene sequences**
 ![images/allignment.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/13d04279d461861995f35027d5f94c0c4a9dc7ff/images/allignment.jpg))
