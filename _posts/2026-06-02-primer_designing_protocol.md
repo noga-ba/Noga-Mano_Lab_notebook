@@ -143,12 +143,18 @@ See Primer-BLAST results:
 
 1. Based on the protocol above, go back to MEGA software
 2. Open your .MAS file
-3. Press **'PHYLOGENY'** icon
-4. Choose **'Construct/Test Neighbour-Joining Tree'** --> **OK**
-5. In the openning table, change:
+3. Edit the sequences species names according to your WORD doc. (or go back to NCBI search): Mark the sequences number and edit sequence name.
+4. Press **'PHYLOGENY'** icon
+5. Choose **'Construct/Test Neighbour-Joining Tree'** --> **OK**
+6. In the openning table, change:
 - 'Test of phylogeny' to **'Boostrap method'**
 - 'Substitution' to **'Nucleotide'**
 - 'Model/Method' to **'Kimura 2-parameter model'**
 6. Get the output and save.
+
+**Figure 9: *Gracilaria* Phylogeny Tree output**
+![images/phylogenytree_gracilaria.JPG](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/c42754d724543dd18c87b9308a513ef14154d8f3/images/phylogenytree_gracilaria.JPG)
+
+##### *Gracilaria* Phylogeny Tree output file: [Gracilaria18SrRNA.mtsx](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/bde608b3979cbae7145e4b2d2b4d34be0df877df/results/Gracilaria18SrRNA.mtsx)
   
 
