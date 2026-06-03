@@ -157,4 +157,6 @@ See Primer-BLAST results:
 
 ##### *Gracilaria* Phylogeny Tree output file: [results/Gracilaria18SrRNA_02062026.2.mtsx](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/b523d72a6b1fe99e1701aac5f7d5d4979dc5cbfc/results/Gracilaria18SrRNA_02062026.2.mtsx)
   
+### Summary 
+The *Gracilaria* phylogenetic tree (fig. 9) was constructed using the Neighbor‑Joining method with the Kimura 2-parameter model and 100 bootstrap replicates. The phylogenetic tree shows the relationships among several *Gracilaria* species based on 18S rRNA sequences. All included species (*Gracilaria textorii*, *G. debilis*, *G. salicornia*, *G. foliifera*, and *G. fergusonii*) cluster within the same general group, indicating their genetic similarity at the genus level. The analyzed sequence groups within this Gracilaria cluster, supporting its classification within the genus. However, the relatively low bootstrap values (43 and 64), suggest weak to moderate support for the branching pattern, indicating limited resolution. This result is consistent with the conserved nature of the 18S rRNA gene, which may not provide sufficient variability for reliable species-level discrimination.
 
