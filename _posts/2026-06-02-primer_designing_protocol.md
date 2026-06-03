@@ -117,6 +117,7 @@
 - Change "Max" to 250 (fig. 7)
 
 **Figure 7: Primer-Blast primer input**
+
 ![images/primer_blast_gracilaria.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/b87c472f5b415b3c3fe6535440d6c6e74d8da27e/images/primer_blast_gracilaria.jpg)
 
 - In the section of "Primer Pair Specifity Checking Parameters":
@@ -125,8 +126,8 @@
  o Change 'Max target amplicon size' to 4000
 - Press **Get Primers**
 
-י
 **Figure 8: Primer-Blast for *Gracilaria* sp.**
+
 ![images/primer_blast_gracilaria_specific.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/06e3ed9f40c065fc51f7a8febf9f188ed9bc4eb0/images/primer_blast_gracilaria_specific.jpg)
 
 #### **6. Recieving specific primers to PCR template**
@@ -154,6 +155,7 @@ See Primer-BLAST results:
 6. Get the output and save.
 
 **Figure 9: *Gracilaria* Phylogeny Tree output**
+
 ![images/phylogenytree_gracilaria_names.JPG](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/49de627dc76f491b3f90013d1c076b1ba0299c7e/images/phylogenytree_gracilaria_names.JPG)
 
 ##### *Gracilaria* Phylogeny Tree output file: [results/Gracilaria18SrRNA_02062026.2.mtsx](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/b523d72a6b1fe99e1701aac5f7d5d4979dc5cbfc/results/Gracilaria18SrRNA_02062026.2.mtsx)
