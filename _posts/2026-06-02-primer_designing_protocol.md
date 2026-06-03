@@ -155,6 +155,6 @@ See Primer-BLAST results:
 **Figure 9: *Gracilaria* Phylogeny Tree output**
 ![images/phylogenytree_gracilaria_names.JPG](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/49de627dc76f491b3f90013d1c076b1ba0299c7e/images/phylogenytree_gracilaria_names.JPG)
 
-##### *Gracilaria* Phylogeny Tree output file: [Gracilaria18SrRNA.mtsx](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/bde608b3979cbae7145e4b2d2b4d34be0df877df/results/Gracilaria18SrRNA.mtsx)
+##### *Gracilaria* Phylogeny Tree output file: []()
   
 
