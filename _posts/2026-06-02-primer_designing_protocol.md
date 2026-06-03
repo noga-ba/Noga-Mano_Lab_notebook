@@ -51,14 +51,14 @@
 
 **Figure 3: Alignment of selected *Gracilaria* sp. 18S rRNA gene sequences**
 
-![images/allignment.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/13d04279d461861995f35027d5f94c0c4a9dc7ff/images/allignment.jpg)
+![images/allignment_gracilaria.JPG](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/ceb90de5cd8d96bfd4c4495bed0d2d271a784980/images/allignment_gracilaria.JPG)
 
 #### **3.	Identifying conserved regions across species**
 -	Look at the uniformity and differences between the sequences: choose a representative complete sequence, with a conserved region  without gaps, yet variable to allow discrimination between species.
 
 **Figure 4: Identifying conserved areas and variances after sequence alignment**
 
-![images/conserve_versus_variance](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/29c57f4dec81c6e6c9c4e7c74ef36253ab6ba310/images/conserve_versus_variance.JPG)
+![images/conserve_versus_variance.JPG](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/ceb90de5cd8d96bfd4c4495bed0d2d271a784980/images/conserve_versus_variance.JPG)
 
 #### **4.	Sequence extract for primer design**
 -	Open Primer3web - https://primer3.ut.ee/
