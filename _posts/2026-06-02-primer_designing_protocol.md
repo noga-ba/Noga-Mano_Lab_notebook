@@ -143,9 +143,10 @@ See Primer-BLAST results:
 
 1. Based on the protocol above, go back to MEGA software
 2. Open your .MAS file
-3. Press **'PHYLOGENY'** icon
-4. Choose **'Construct/Test Neighbour-Joining Tree'** --> **OK**
-5. In the openning table, change:
+3. Edit the sequences species names according to your WORD doc. (or go back to NCBI search): Mark the sequences number and edit sequence name.
+4. Press **'PHYLOGENY'** icon
+5. Choose **'Construct/Test Neighbour-Joining Tree'** --> **OK**
+6. In the openning table, change:
 - 'Test of phylogeny' to **'Boostrap method'**
 - 'Substitution' to **'Nucleotide'**
 - 'Model/Method' to **'Kimura 2-parameter model'**
