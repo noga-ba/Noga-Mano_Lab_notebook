@@ -126,7 +126,7 @@
  o Change 'Max target amplicon size' to 4000
 - Press **Get Primers**
 
-- **Figure 8: Primer-Blast for *Gracilaria* sp.**
+**Figure 8: Primer-Blast for *Gracilaria* sp.**
 
 ![images/primer_blast_gracilaria_specific.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/06e3ed9f40c065fc51f7a8febf9f188ed9bc4eb0/images/primer_blast_gracilaria_specific.jpg)
 
