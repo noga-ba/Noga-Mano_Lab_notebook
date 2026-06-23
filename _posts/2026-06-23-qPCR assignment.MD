@@ -2,6 +2,17 @@
 
 ##### submitted by: Noga Mano, 23/06/2026
 
+### **Introduction:**
+
+The Necessity of Post-qPCR Data Analysis:
+
+Following a qPCR run, we obtain outputs raw Cycle Threshold (Ct) values. These values reflect initial transcript abundance, but they cannot be directly compared or interpreted biologically, due to inherent experimental variations. 
+
+To extract meaningful scientific insights, processing raw data through the calculation method is essential for understanding the gene reaction under stress conditions, compare to normal conditions.
+
+Post-qPCR mathematical processing is required to eliminate technical-background "noises", establish a relative baseline and translate exponential data into true biological trends.
+
+
 ### Preliminary Step: Experimental Setup & Gene Selection
 #### **Define Genes:** 
 Define your target gene(s) of interest and a stable internal reference (housekeeping) gene:
@@ -27,8 +38,9 @@ Perform quantitative PCR (qPCR) to obtain raw cycle threshold ($C_T$) values for
 
 <sup>1</sup> Refernce gene
 
-##### **Step 1: Internal Data Normalization ($\Delta C_T$)**
-**Normalize the target gene expression against the internal reference gene to account for variations in initial cDNA template concentration.**
+### **Step 1: Internal Data Normalization ($\Delta C_T$)**
+#### **Normalize the target gene expression against the internal reference gene to account for variations in initial cDNA template concentration.**
+**Minor variations in RNA quality, reverse transcription efficiency and/or pipetting are inevitable. Subtracting the Ct values of a stable reference gene (e.g., Tubulin) from the target gene controls for these confounding factors, ensuring that observed differences reflect true biological responses rather than technical artifacts.**
 
 Calculated Parameter: $\Delta C_T$ (Delta $C_T$)
 
@@ -59,8 +71,9 @@ As shown in the table 2:
 | **DMSO Control ($\Delta C_T$)** | 5.798 | 2.668 | 1.421 | 1.070 | 5.059 | 5.056 | 7.725 | 2.110 | 2.276 | 6.383 | -2.327 | 0.405 | 1.777 | 0.831 |
 | **Inhibtior treatment ($\Delta C_T$)** | 5.213 | 2.242 | 1.142 | 0.427 | 4.883 | 4.057 | 8.413 | 1.999 | 1.957 | 8.429 | -1.529 | 1.515 | 1.032 | 0.764 |
 
-##### **Step 2: Normalization to the Control Group ($\Delta\Delta C_T$)**
-**Calculate the relative change of the target gene within the stress treatment group compared to its baseline expression in the control group.**
+### **Step 2: Normalization to the Control Group ($\Delta\Delta C_T$)**
+#### **Calculate the relative change of the target gene within the stress treatment group compared to its baseline expression in the control group.**
+**Baseline Comparison ($\Delta\Delta C_T$): *Gene expression changes are relative*. Subtracting the baseline expression of the control group (e.g., DMSO control) from the experimental group, isolates the net effect of the treatment.**
 
 Calculated Parameter: $\Delta\Delta C_T$ (Delta-Delta $C_T$)
 
@@ -89,7 +102,10 @@ As shown in table 3:
 | **$\Delta\Delta C_T$** | -0.585 | -0.426 | -0.279 | -0.643 | -0.176 | -0.998 | 0.688 | -0.111 | -0.319 | 2.046 | 0.798 | 1.111 | -0.744 | -0.067 |
 
 ##### **Step 3: Calculation of Relative Expression = Fold Change**
+
 **Convert the logarithmic $\Delta\Delta C_T$ value into a linear value representing the exponential amplification of the PCR process.**
+
+**Because PCR amplification is exponential, $C_T$ values exist on a logarithmic scale (where a difference of 1 cycle represents a 2-fold change). Utilizing the $2^{-\Delta\Delta C_T}$ equation transforms these values into a linear Fold Change scale, providing an intuitive, publishable measure of gene upregulation ($>1$) or downregulation ($<1$).**
 
 Calculated Parameter: Fold Change (Relative mRNA Expression)
 
