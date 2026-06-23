@@ -119,7 +119,11 @@ As shown in table 4:
 
 ![Fold change results](../images/foldchangeqPCRpost.png)
 
-Fold Change result $> 1$: The target gene is upregulated (expression increased under stress compared to the control).
+Looking at the bar chart, you can see which genes were upregulated / downregulated: 
 
-Fold Change resilt $< 1$: The target gene is downregulated (expression decreased under stress compared to the control).
+Fold change > 1 : **gene expression increased** (upregulated) under stress compared to the control
+
+Fold change < 1 : **gene expression decreased** (downregulated) under stress compared to the control.
+
+
 
