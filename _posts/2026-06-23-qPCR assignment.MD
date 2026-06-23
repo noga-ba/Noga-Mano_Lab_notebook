@@ -17,9 +17,9 @@ Design and conduct a controlled experiment consisting of:
 Perform quantitative PCR (qPCR) to obtain raw cycle threshold ($C_T$) values for all samples.
 
 ##### Arrange the result of the qPCR in table:
-### Cycle Threshold (Ct)
+### **Table 1: Cycle Threshold (Ct)**
 
-| Treatment | *Tubulin*[^1] | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
+| Treatment | *Tubulin* [^1] | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **DMSO Control** | 23.30 | 29.09 | 25.96 | 24.72 | 24.37 | 28.35 | 28.35 | 31.02 | 25.41 | 25.57 | 29.68 | 20.97 | 23.70 | 25.07 | 24.13 |
 | **Inhibtior treartment** | 23.30 | 28.51 | 25.54 | 24.44 | 23.72 | 28.18 | 27.35 | 31.71 | 25.29 | 25.25 | 31.72 | 21.77 | 24.81 | 24.33 | 24.06 |
@@ -36,9 +36,16 @@ Calculated Parameter: $\Delta C_T$ (Delta $C_T$)
 $$\Delta C_T = C_{T, \text{target}} - C_{T, \text{reference}}$$
 
 Example:
+
 ***Tubulin*** DMSO Control = 23.30
+
 ***ascs*** DMSO Control = 29.09
+
 DMSO Control (Δ𝐶𝑡) = 29.09 - 23.30 = 5.798
+
+As shown in the table 2:
+
+### **Table 2: ΔCt calculation**
 
 | Treatment | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
