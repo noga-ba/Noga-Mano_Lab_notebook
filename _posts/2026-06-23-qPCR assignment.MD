@@ -77,7 +77,7 @@ DMSO Control (Δ𝐶𝑡) = 5.798
 
 Inhibtior treartment (Δ𝐶𝑡) = 5.213 
 
-$\Delta\Delta C_T$ (Delta-Delta $C_T$) = 5.213 - 5.798 = -0.585
+ΔΔ𝐶𝑡 = 5.213 - 5.798 = -0.585
 
 As shown in table 3:
 
