@@ -96,8 +96,28 @@ Formula:
 
 $$\text{Fold Change} = 2^{-\Delta\Delta C_T}$$
 
+Example 
+
+***ascs*** gene fold change:
+
+**$\Delta\Delta C_T$** = -0.585
+
+Fold change = 2^(-0.585) = 1.50
+
+As shown in table 4:
+
+### **Table 3: Fold change calculation**
+
+| Parameter | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Fold change** | 1.50 | 1.34 | 1.21 | 1.56 | 1.13 | 2.00 | 0.62 | 1.08 | 1.25 | 0.24 | 0.58 | 0.46 | 1.68 | 1.05 |
+
 ##### **Step 4: Data Visualization and Biological Interpretation**
-**Generate a graphical representation (e.g., a bar chart) displaying gene expression levels under the tested stress condition (Y-axis: Fold Change; X-axis: Experimental Groups).**
+**Generate a graphical representation (e.g., a bar chart) displaying gene expression levels under the tested stress condition 
+
+(X-axis: Experimental Groups [targeted genes]; Y-axis: Fold Change).**
+
+
 
 Fold Change result $> 1$: The target gene is upregulated (expression increased under stress compared to the control).
 
