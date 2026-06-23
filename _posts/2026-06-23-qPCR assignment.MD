@@ -19,11 +19,12 @@ Perform quantitative PCR (qPCR) to obtain raw cycle threshold ($C_T$) values for
 ##### Arrange the result of the qPCR in table:
 ### Cycle Threshold (Ct)
 
-| Treatment | *Tubulin* | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
+| Treatment | *Tubulin*[^1] | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **DMSO Control** | 23.30 | 29.09 | 25.96 | 24.72 | 24.37 | 28.35 | 28.35 | 31.02 | 25.41 | 25.57 | 29.68 | 20.97 | 23.70 | 25.07 | 24.13 |
 | **Inhibtior treartment** | 23.30 | 28.51 | 25.54 | 24.44 | 23.72 | 28.18 | 27.35 | 31.71 | 25.29 | 25.25 | 31.72 | 21.77 | 24.81 | 24.33 | 24.06 |
 
+[^1] = Refernce gene
 
 ##### **Step 1: Internal Data Normalization ($\Delta C_T$)**
 **Normalize the target gene expression against the internal reference gene to account for variations in initial cDNA template concentration.**
@@ -33,6 +34,16 @@ Calculated Parameter: $\Delta C_T$ (Delta $C_T$)
 *Formula:*
 
 $$\Delta C_T = C_{T, \text{target}} - C_{T, \text{reference}}$$
+
+Example:
+***Tubulin*** DMSO Control = 23.30
+***ascs*** DMSO Control = 29.09
+DMSO Control (Δ𝐶𝑡) = 29.09 - 23.30 = 5.798
+
+| Treatment | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **DMSO Control ($\Delta C_T$)** | 5.798 | 2.668 | 1.421 | 1.070 | 5.059 | 5.056 | 7.725 | 2.110 | 2.276 | 6.383 | -2.327 | 0.405 | 1.777 | 0.831 |
+| **Inhibtior treatment ($\Delta C_T$)** | 5.213 | 2.242 | 1.142 | 0.427 | 4.883 | 4.057 | 8.413 | 1.999 | 1.957 | 8.429 | -1.529 | 1.515 | 1.032 | 0.764 |
 
 ##### **Step 2: Normalization to the Control Group ($\Delta\Delta C_T$)**
 **Calculate the relative change of the target gene within the stress treatment group compared to its baseline expression in the control group.**
