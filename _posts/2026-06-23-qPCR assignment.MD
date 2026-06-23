@@ -42,13 +42,13 @@ Example:
 
 ***ascs*** DMSO Control = 29.09
 
-DMSO Control (Δ𝐶𝑡) = 29.09 - 23.30 = *5.798*
+DMSO Control (Δ𝐶𝑡) = 29.09 - 23.30 = **5.798**
 
 ***Tubulin*** Inhibtior treatment = 23.30 (the right reference gene - no change under stress treatment)
 
 ***ascs*** Inhibtior treatment = 28.51 (a clear difference between control and stress treatment)
 
-Inhibtior treatment (Δ𝐶𝑡) = 28.51 - 23.30 = *5.213*
+Inhibtior treatment (Δ𝐶𝑡) = 28.51 - 23.30 = **5.213**
 
 As shown in the table 2:
 
@@ -78,7 +78,7 @@ DMSO Control (Δ𝐶𝑡) = 5.798
 
 Inhibtior treartment (Δ𝐶𝑡) = 5.213 
 
-ΔΔ𝐶𝑡 = 5.213 - 5.798 = -0.585
+ΔΔ𝐶𝑡 = 5.213 - 5.798 = **-0.585**
 
 As shown in table 3:
 
@@ -103,7 +103,7 @@ Example
 
 **$\Delta\Delta C_T$** = -0.585
 
-Fold change = 2^(-0.585) = 1.50
+Fold change = 2^(-0.585) = **1.50**
 
 As shown in table 4:
 
