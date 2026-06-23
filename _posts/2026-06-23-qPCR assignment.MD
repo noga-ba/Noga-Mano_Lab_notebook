@@ -92,7 +92,7 @@ As shown in table 3:
 
 Calculated Parameter: Fold Change (Relative mRNA Expression)
 
-Formula:
+*Formula:*
 
 $$\text{Fold Change} = 2^{-\Delta\Delta C_T}$$
 
@@ -113,9 +113,10 @@ As shown in table 4:
 | **Fold change** | 1.50 | 1.34 | 1.21 | 1.56 | 1.13 | 2.00 | 0.62 | 1.08 | 1.25 | 0.24 | 0.58 | 0.46 | 1.68 | 1.05 |
 
 ##### **Step 4: Data Visualization and Biological Interpretation**
-**Generate a graphical representation (e.g., a bar chart) displaying gene expression levels under the tested stress condition 
-
+**Generate a graphical representation (e.g., a bar chart) displaying gene expression levels under the tested stress condition.
 (X-axis: Experimental Groups [targeted genes]; Y-axis: Fold Change).**
+
+### **Graph 1: Fold change results**
 
 ![Fold change results](../images/foldchangeqPCRpost.png)
 
