@@ -117,7 +117,7 @@ As shown in table 4:
 
 (X-axis: Experimental Groups [targeted genes]; Y-axis: Fold Change).**
 
-![Fold change results](images/fold change qPCR post.png)
+![Fold change results](images/foldchangeqPCRpost.png)
 
 
 Fold Change result $> 1$: The target gene is upregulated (expression increased under stress compared to the control).
