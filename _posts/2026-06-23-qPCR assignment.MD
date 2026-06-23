@@ -41,14 +41,13 @@ Example:
 
 ***ascs*** DMSO Control = 29.09
 
-DMSO Control (Δ𝐶𝑡) = 29.09 - 23.30 = *5.798*
+DMSO Control (Δ𝐶𝑡) = 29.09 - 23.30 = **5.798**
 
 ***Tubulin*** Inhibtior treatment = 23.30 (the right reference gene - no change under stress treatment)
 
 ***ascs*** Inhibtior treatment = 28.51 (a clear difference between control and stress treatment)
 
-Inhibtior treatment (Δ𝐶𝑡) = 28.51 - 23.30 = *5.213*
-
+Inhibtior treatment (Δ𝐶𝑡) = 28.51 - 23.30 = **5.213**
 
 As shown in the table 2:
 
@@ -70,7 +69,23 @@ $$\Delta\Delta C_T = \Delta C_{T, \text{experimental}} - \Delta C_{T, \text{cont
 
 Note: Typically, the average $\Delta C_T$ of the control group is subtracted from each individual sample's $\Delta C_T$.
 
+Example 
 
+***ascs*** gene:
+
+DMSO Control (Δ𝐶𝑡) = 5.798 
+
+Inhibtior treartment (Δ𝐶𝑡) = 5.213 
+
+$$\Delta\Delta C_T = 5.213 - 5.798 = -0.585
+
+As shown in table 3:
+
+### **Table 3: ΔΔCt calculation**
+
+| Parameter | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **$\Delta\Delta C_T$** | -0.585 | -0.426 | -0.279 | -0.643 | -0.176 | -0.998 | 0.688 | -0.111 | -0.319 | 2.046 | 0.798 | 1.111 | -0.744 | -0.067 |
 
 ##### **Step 3: Calculation of Relative Expression = Fold Change**
 **Convert the logarithmic $\Delta\Delta C_T$ value into a linear value representing the exponential amplification of the PCR process.**
