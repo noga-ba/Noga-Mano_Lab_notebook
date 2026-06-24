@@ -135,9 +135,11 @@ As shown in table 4:
 
 ### **Graph 1: Fold change results**
 
-![Fold change results](../images/foldchangeqPCRpost.png)
+![Fold change results](..images/fold_change_qPCR_post.png)
 
 Looking at the bar chart, you can see which genes were upregulated / downregulated: 
+
+Fold change = 1 : **inhibitor / stress have no effect on gene expression**. Reference gene's fold change should be 1.
 
 Fold change > 1 : **gene expression increased** (upregulated) under stress compared to the control
 
