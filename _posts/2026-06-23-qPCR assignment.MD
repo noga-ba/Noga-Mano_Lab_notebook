@@ -1,12 +1,11 @@
-## **qPCR Data Analysis Protocol**
-
-##### submitted by: Noga Mano, 23/06/2026
+## **qPCR Data Analysis Protocol - Step-by-Step Guide to qPCR Data Analysis: From Raw $C_T$ to Fold Change**
+#### **Livak Method (Livak & Schmittgen, 2001)** 
 
 ### **Introduction:**
 
 The Necessity of Post-qPCR Data Analysis:
 
-Following a qPCR run, we obtain outputs raw Cycle Threshold (Ct) values. These values reflect initial transcript abundance, but they cannot be directly compared or interpreted biologically, due to inherent experimental variations. 
+Following a qPCR run analyzing gene reactions for stressors or inhibitors, we obtain outputs raw Cycle Threshold (Ct) values. These values reflect initial cDNA transcript abundance, but they cannot be directly compared or interpreted biologically, due to inherent experimental variations. 
 
 To extract meaningful scientific insights, processing raw data through the calculation method is essential for understanding the gene reaction under stress conditions, compare to normal conditions.
 
