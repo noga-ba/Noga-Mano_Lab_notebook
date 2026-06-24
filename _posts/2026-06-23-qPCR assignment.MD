@@ -13,21 +13,21 @@ Post-qPCR mathematical processing is required to eliminate technical-background 
 
 
 ### Preliminary Step: Experimental Setup & Gene Selection
-#### **Define Genes:** 
+#### **Targeted Genes Defining:** 
 Define your target gene(s) of interest and a stable internal reference (housekeeping) gene:
-> Reference (housekeeping) gene: a stable gene which the known stress/factor we chose to check will not effect it.
-> Target gene: a gene that we expect to react upon known stress/factor we chose.
+> Reference (housekeeping) gene: a stable gene which the known stressor/factor we chose to check will not effect it.
+> Target gene: gene or genes that we expect to react upon known stressor/factor.
 
 #### **Experimental Design:** 
 Design and conduct a controlled experiment consisting of:
-> Experimental/Treatment Group: Exposed to the specific environmental stress condition being tested.
-> Control Group: Keet under unstressed conditions.
+> Experimental/Treatment Group: Exposed to the specific stressor/inhibitor.
+> Control Group: Keep under unstressed conditions.
 
 #### **Quantification:**
 Perform quantitative PCR (qPCR) to obtain raw cycle threshold ($C_T$) values for all samples.
 
 ##### Arrange the result of the qPCR in table:
-### **Table 1: Cycle Threshold (Ct)**
+### **Table 1: Cycle Threshold (Ct)** - an example
 
 | Treatment | *Tubulin*<sup>1</sup> | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -65,10 +65,10 @@ As shown in the table 2:
 
 ### **Table 2: ΔCt calculation**
 
-| Treatment | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **DMSO Control ($\Delta C_T$)** | 5.798 | 2.668 | 1.421 | 1.070 | 5.059 | 5.056 | 7.725 | 2.110 | 2.276 | 6.383 | -2.327 | 0.405 | 1.777 | 0.831 |
-| **Inhibtior treatment ($\Delta C_T$)** | 5.213 | 2.242 | 1.142 | 0.427 | 4.883 | 4.057 | 8.413 | 1.999 | 1.957 | 8.429 | -1.529 | 1.515 | 1.032 | 0.764 |
+| Treatment | *Tubulin* | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **DMSO Control ($\Delta C_T$)** | 0.000 | 5.798 | 2.668 | 1.421 | 1.070 | 5.059 | 5.056 | 7.725 | 2.110 | 2.276 | 6.383 | -2.327 | 0.405 | 1.777 | 0.831 |
+| **Inhibtior treatment ($\Delta C_T$)** | 0.000 | 5.213 | 2.242 | 1.142 | 0.427 | 4.883 | 4.057 | 8.413 | 1.999 | 1.957 | 8.429 | -1.529 | 1.515 | 1.032 | 0.764 |
 
 ### **Step 2: Normalization to the Control Group ($\Delta\Delta C_T$)**
 #### **Calculate the relative change of the target gene within the stress treatment group compared to its baseline expression in the control group.**
@@ -96,9 +96,9 @@ As shown in table 3:
 
 ### **Table 3: ΔΔCt calculation**
 
-| Parameter | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **$\Delta\Delta C_T$** | -0.585 | -0.426 | -0.279 | -0.643 | -0.176 | -0.998 | 0.688 | -0.111 | -0.319 | 2.046 | 0.798 | 1.111 | -0.744 | -0.067 |
+| Parameter | *Tubulin* | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **$\Delta\Delta C_T$** | 0.000 | -0.585 | -0.426 | -0.279 | -0.643 | -0.176 | -0.998 | 0.688 | -0.111 | -0.319 | 2.046 | 0.798 | 1.111 | -0.744 | -0.067 |
 
 ##### **Step 3: Calculation of Relative Expression = Fold Change**
 
@@ -124,9 +124,9 @@ As shown in table 4:
 
 ### **Table 3: Fold change calculation**
 
-| Parameter | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Fold change** | 1.50 | 1.34 | 1.21 | 1.56 | 1.13 | 2.00 | 0.62 | 1.08 | 1.25 | 0.24 | 0.58 | 0.46 | 1.68 | 1.05 |
+| Parameter | *Tubulin* | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Fold change** | 1.00 | 1.50 | 1.34 | 1.21 | 1.56 | 1.13 | 2.00 | 0.62 | 1.08 | 1.25 | 0.24 | 0.58 | 0.46 | 1.68 | 1.05 |
 
 ##### **Step 4: Data Visualization and Biological Interpretation**
 **Generate a graphical representation (e.g., a bar chart) displaying gene expression levels under the tested stress condition.
