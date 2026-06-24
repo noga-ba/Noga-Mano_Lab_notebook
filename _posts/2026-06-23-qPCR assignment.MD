@@ -134,7 +134,7 @@ As shown in table 4:
 
 ### **Graph 1: Fold change results**
 
-![Fold change results](..images/fold_change_qpcr_post.png)
+![Fold change results](../images/fold_change_qpcr_post.png)
 
 Looking at the bar chart, you can see which genes were upregulated / downregulated: 
 
