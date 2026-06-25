@@ -22,6 +22,7 @@ Define your target gene(s) of interest and a stable internal reference (housekee
 
 #### **Experimental Design:** 
 Design and conduct a controlled experiment consisting of:
+
 :memo: Experimental/Treatment Group: Exposed to the specific stressor/inhibitor.
 
 :memo: Control Group: Keep under unstressed conditions.
