@@ -111,7 +111,7 @@ As shown in table 3:
 
 **Convert the logarithmic ΔΔCt value into a linear value representing the exponential amplification of the PCR process.**
 
-**Because PCR amplification is exponential, *C*<sub>t</sub> values exist on a logarithmic scale (where a difference of 1 cycle represents a 2-fold change). Utilizing the $2^{ΔΔCt}$ equation transforms these values into a linear Fold Change scale, providing an intuitive, publishable measure of gene upregulation or downregulation.**
+**Because PCR amplification is exponential, *C*<sub>t</sub> values exist on a logarithmic scale (where a difference of 1 cycle represents a 2-fold change). Utilizing the $2^{-ΔΔCt}$ equation transforms these values into a linear Fold Change scale, providing an intuitive, publishable measure of gene upregulation or downregulation.**
 
 Calculated Parameter: Fold Change (Relative mRNA Expression)
 
