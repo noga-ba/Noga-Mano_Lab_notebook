@@ -53,14 +53,15 @@
 
 **Figure 3: Alignment of selected *Gracilaria* sp. 18S rRNA gene sequences**
 
-![images/allignment_gracilaria.JPG](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/ceb90de5cd8d96bfd4c4495bed0d2d271a784980/images/allignment_gracilaria.JPG)
+<img width="1034" height="238" alt="allignment_gracilaria" src="https://github.com/user-attachments/assets/821acb34-c236-4c3c-b0d0-43389fc8e784" />
+
 
 #### **3.	Identifying conserved regions across species**
 -	Look at the uniformity and differences between the sequences: choose a representative complete sequence, with a conserved region  without gaps, yet variable to allow discrimination between species.
 
 **Figure 4: Identifying conserved areas and variances after sequence alignment**
 
-![images/conserve_versus_variance.JPG](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/ceb90de5cd8d96bfd4c4495bed0d2d271a784980/images/conserve_versus_variance.JPG)
+<img width="1034" height="238" alt="conserve_versus_variance" src="https://github.com/user-attachments/assets/671c03e2-83b1-4fab-ad0c-057d92067a61" />
 
 #### **4.	Sequence extract for primer design**
 -	Open Primer3web - https://primer3.ut.ee/
@@ -71,7 +72,8 @@
 
 **Figure 5: Pasting the sequense into the central window**
 
-![images/primer3web.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/15f5103f64180a3cd747b2b59d0ebead6d1b0d47/images/primer3web.jpg)
+<img width="1324" height="484" alt="primer3web" src="https://github.com/user-attachments/assets/2882ecf3-dd4d-4f5a-a142-324a7ecbcd21" />
+
 
 
 - Look at the first table of the output, and identify:
@@ -93,7 +95,8 @@
 
 **Figure 6: The output table of the primer designed for *Gracilaria***
 
-![images/primer_table.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/e02a55c7054ccd42fca167bee583e85017a7fd2d/images/primer_table.jpg)
+<img width="646" height="223" alt="primer_table" src="https://github.com/user-attachments/assets/254c968f-a201-4614-a17f-2115ea4345c1" />
+
 
 ##### Primer3 Output link: https://primer3.ut.ee/cgi-bin/primer3/primer3web_results.cgi 
 
@@ -120,7 +123,8 @@
 
 **Figure 7: Primer-Blast primer input**
 
-![images/primer_blast_gracilaria.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/b87c472f5b415b3c3fe6535440d6c6e74d8da27e/images/primer_blast_gracilaria.jpg)
+<img width="951" height="588" alt="primer_blast_gracilaria" src="https://github.com/user-attachments/assets/cec1bedf-a7cb-40e2-a3d2-d1804fd922d6" />
+
 
 - In the section of "Primer Pair Specifity Checking Parameters":
  o Change 'Database' to "nt"
@@ -130,7 +134,8 @@
 
 **Figure 8: Primer-Blast for *Gracilaria* sp.**
 
-![images/primer_blast_gracilaria_specific.jpg](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/06e3ed9f40c065fc51f7a8febf9f188ed9bc4eb0/images/primer_blast_gracilaria_specific.jpg)
+<img width="1093" height="455" alt="primer_blast_gracilaria_specific" src="https://github.com/user-attachments/assets/8a2334cc-62d2-4164-8aba-a76c15fbbf90" />
+
 
 #### **6. Recieving specific primers to PCR template**
 - Get your report at the next stage of the Primer-BLAST process and save it.
@@ -158,7 +163,8 @@ See Primer-BLAST results:
 
 **Figure 9: *Gracilaria* Phylogeny Tree output**
 
-![images/phylogenytree_gracilaria_names.JPG](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/49de627dc76f491b3f90013d1c076b1ba0299c7e/images/phylogenytree_gracilaria_names.JPG)
+<img width="1253" height="700" alt="phylogenytree_gracilaria_names" src="https://github.com/user-attachments/assets/e58a19f4-e471-4932-84f5-b7ffbceed76e" />
+
 
 ##### *Gracilaria* Phylogeny Tree output file: [results/Gracilaria18SrRNA_02062026.2.mtsx](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/b523d72a6b1fe99e1701aac5f7d5d4979dc5cbfc/results/Gracilaria18SrRNA_02062026.2.mtsx)
   
