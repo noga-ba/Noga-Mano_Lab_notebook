@@ -5,7 +5,7 @@
 
 The Necessity of Post-qPCR Data Analysis:
 
-Following a qPCR run analyzing gene reactions for stressors or inhibitors, we obtain outputs raw Cycle Threshold (Ct) values. These values reflect initial cDNA transcript abundance, but they cannot be directly compared or interpreted biologically, due to inherent experimental variations. 
+Following a qPCR run analyzing gene reactions for stressors or inhibitors, we obtain outputs raw Cycle Threshold (*C*<sub>t</sub>) values. These values reflect initial cDNA transcript abundance, but they cannot be directly compared or interpreted biologically, due to inherent experimental variations. 
 
 To extract meaningful scientific insights, processing raw data through the calculation method is essential for understanding the gene reaction under stress conditions, compare to normal conditions.
 
