@@ -49,7 +49,7 @@
 -	Choose: 'Align' --> Edit/Build Alignment --> Create a New Alignment
 -	Copy each sequence, **including headers** from the Word document
 -	Choose: Alignment --> Align by ClustalW
--	Save as .MAS file (e.g. [results/Gracilaria18SrRNA_02062026.1.mas](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/main/results/gracilaria18Srrna_02062026.1.mas))
+-	Save as .MAS file 
 
 **Figure 3: Alignment of selected *Gracilaria* sp. 18S rRNA gene sequences**
 
