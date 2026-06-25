@@ -51,7 +51,9 @@ Calculated Parameter: Δ*C*<sub>t</sub>
 
 *Formula:*
 
-Δ*C*<sub>t</sub> = C_{T, \text{target}} - C_{T, \text{reference}}$$
+$$\Delta C_t = C_{t\text{ target}} - C_{t\text{ reference}}$$
+
+&Delta;*C*<sub>t</sub> = *C*<sub>t target</sub> - *C*<sub>t reference</sub>
 
 Example:
 
