@@ -53,7 +53,9 @@
 
 **Figure 3: Alignment of selected *Gracilaria* sp. 18S rRNA gene sequences**
 
-<img width="1034" height="238" alt="allignment_gracilaria" src="https://github.com/user-attachments/assets/821acb34-c236-4c3c-b0d0-43389fc8e784" />
+<img width="1034" height="238" alt="allignment_gracilaria" src="https://github.com/user-attachments/assets/ee0f22d5-716a-4242-a79f-fd80fab39b8c" />
+
+
 
 
 #### **3.	Identifying conserved regions across species**
