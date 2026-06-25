@@ -88,7 +88,7 @@ Calculated Parameter: ΔΔCt
 *Formula:*
 
 $$
-\Delta\Delta C_t = \Delta C_{t\text{ experimental}} - \Delta C_{t\text{ control}}
+\Delta \Delta Ct = \Delta Ct_{\text{experimental}} - \Delta Ct_{\text{control}}
 $$
 
 Note: Typically, the average ΔCt of the control group is subtracted from each individual sample's ΔCt.
@@ -122,7 +122,7 @@ Calculated Parameter: Fold Change (Relative mRNA Expression)
 *Formula:*
 
 $$
-\text{Fold Change} = 2^{(-\Delta\Delta C_t)}
+\text{Fold Change} = 2^{(-\Delta \Delta Ct)}
 $$
 
 Example 
