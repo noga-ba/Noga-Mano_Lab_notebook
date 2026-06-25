@@ -105,25 +105,25 @@ As shown in table 3:
 
 | Parameter | *Tubulin* | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **$\Delta\Delta C_T$** | 0.000 | -0.585 | -0.426 | -0.279 | -0.643 | -0.176 | -0.998 | 0.688 | -0.111 | -0.319 | 2.046 | 0.798 | 1.111 | -0.744 | -0.067 |
+| **ΔΔCt** | 0.000 | -0.585 | -0.426 | -0.279 | -0.643 | -0.176 | -0.998 | 0.688 | -0.111 | -0.319 | 2.046 | 0.798 | 1.111 | -0.744 | -0.067 |
 
 ##### **Step 3: Calculation of Relative Expression = Fold Change**
 
-**Convert the logarithmic $\Delta\Delta C_T$ value into a linear value representing the exponential amplification of the PCR process.**
+**Convert the logarithmic ΔΔCt value into a linear value representing the exponential amplification of the PCR process.**
 
-**Because PCR amplification is exponential, $C_T$ values exist on a logarithmic scale (where a difference of 1 cycle represents a 2-fold change). Utilizing the $2^{-\Delta\Delta C_T}$ equation transforms these values into a linear Fold Change scale, providing an intuitive, publishable measure of gene upregulation ($>1$) or downregulation ($<1$).**
+**Because PCR amplification is exponential, *C*<sub>t</sub> values exist on a logarithmic scale (where a difference of 1 cycle represents a 2-fold change). Utilizing the $2^{ΔΔCt}$ equation transforms these values into a linear Fold Change scale, providing an intuitive, publishable measure of gene upregulation or downregulation.**
 
 Calculated Parameter: Fold Change (Relative mRNA Expression)
 
 *Formula:*
 
-$$\text{Fold Change} = 2^{-\Delta\Delta C_T}$$
+$$\text{Fold Change} = 2^{-ΔΔCt}$$
 
 Example 
 
 ***ascs*** gene fold change:
 
-**$\Delta\Delta C_T$** = -0.585
+**ΔΔCt** = -0.585
 
 Fold change = 2^(-0.585) = **1.50**
 
@@ -131,9 +131,11 @@ As shown in table 4:
 
 ### **Table 3: Fold change calculation**
 
+
 | Parameter | *Tubulin* | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Fold change** | 1.00 | 1.50 | 1.34 | 1.21 | 1.56 | 1.13 | 2.00 | 0.62 | 1.08 | 1.25 | 0.24 | 0.58 | 0.46 | 1.68 | 1.05 |
+
 
 ##### **Step 4: Data Visualization and Biological Interpretation**
 **Generate a graphical representation (e.g., a bar chart) displaying gene expression levels under the tested stress condition.
