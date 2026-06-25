@@ -12,7 +12,7 @@
 
 ### **Primer designing workflow:**
 #### **1.	Collecting 18S rRNA sequences from NCBI**
--	Enter NCBI: <https://www.ncbi.nlm.nih.gov/nuccore>
+-	Enter NCBI: [https://www.ncbi.nlm.nih.gov/nuccore](https://www.ncbi.nlm.nih.gov/nuccore)
 -	In the search line choose: 'Nucleotide'
 -	Type the name of the target organism and/or the gene (e.g. Gracilaria 18S rRNA)
 - Choose **DNA**
