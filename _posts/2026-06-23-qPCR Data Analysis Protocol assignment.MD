@@ -28,7 +28,7 @@ Design and conduct a controlled experiment consisting of:
 :memo: Control Group: Keep under unstressed conditions.
 
 #### **Quantification:**
-Perform quantitative PCR (qPCR) to obtain raw cycle threshold ($C_T$) values for all samples.
+Perform quantitative PCR (qPCR) to obtain raw cycle threshold (*C*<sub>t</sub>) values for all samples.
 
 ##### Arrange the result of the qPCR in table:
 
@@ -43,11 +43,11 @@ Perform quantitative PCR (qPCR) to obtain raw cycle threshold ($C_T$) values for
 <sup>1</sup> Reference gene
 
 
-### **Step 1: Internal Data Normalization ($\Delta C_T$)**
+### **Step 1: Internal Data Normalization (Delta *C*<sub>t</sub>)**
 #### **Normalize the target gene expression against the internal reference gene to account for variations in initial cDNA template concentration.**
 **Minor variations in RNA quality, reverse transcription efficiency and/or pipetting are inevitable. Subtracting the Ct values of a stable reference gene (e.g., Tubulin) from the target gene controls for these confounding factors, ensuring that observed differences reflect true biological responses rather than technical artifacts.**
 
-Calculated Parameter: $\Delta C_T$ (Delta $C_T$)
+Calculated Parameter: Delta *C*<sub>t</sub>
 
 *Formula:*
 
