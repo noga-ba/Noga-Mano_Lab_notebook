@@ -51,7 +51,7 @@ Calculated Parameter: Δ*C*<sub>t</sub>
 
 *Formula:*
 
-![Formula Image](images/delta_ct.JPG)
+![Formula Image](../images/delta_ct.JPG)
 
 Example:
 
