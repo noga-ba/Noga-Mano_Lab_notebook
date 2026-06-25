@@ -50,6 +50,8 @@ Perform quantitative PCR (qPCR) to obtain raw cycle threshold ($C_T$) values for
 
 [^1]: Reference gene
 
+<sup>1</sup> Refernce gene
+
 ### **Step 1: Internal Data Normalization ($\Delta C_T$)**
 #### **Normalize the target gene expression against the internal reference gene to account for variations in initial cDNA template concentration.**
 **Minor variations in RNA quality, reverse transcription efficiency and/or pipetting are inevitable. Subtracting the Ct values of a stable reference gene (e.g., Tubulin) from the target gene controls for these confounding factors, ensuring that observed differences reflect true biological responses rather than technical artifacts.**
