@@ -32,7 +32,8 @@
 
 **Figure 1: FASTA sequence containing ambiguous bases (multi Ns)** 
 
-![FASTA sequence containing ambiguous bases (multi Ns)](../images/withnnnn.jpg)
+<img width="860" height="855" alt="withnnnn" src="https://github.com/user-attachments/assets/9d001ae6-2bc3-45ea-9655-401513473c66" />
+
 
 **Figure 2: FASTA sequence sequence *without* ambiguous bases** 
 
