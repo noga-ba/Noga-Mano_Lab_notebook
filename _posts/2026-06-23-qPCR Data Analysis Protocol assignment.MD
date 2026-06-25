@@ -73,8 +73,8 @@ As shown in the table 2:
 
 | Treatment | *Tubulin* | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **DMSO Control ($\Delta C_T$)** | 0.000 | 5.798 | 2.668 | 1.421 | 1.070 | 5.059 | 5.056 | 7.725 | 2.110 | 2.276 | 6.383 | -2.327 | 0.405 | 1.777 | 0.831 |
-| **Inhibtior treatment ($\Delta C_T$)** | 0.000 | 5.213 | 2.242 | 1.142 | 0.427 | 4.883 | 4.057 | 8.413 | 1.999 | 1.957 | 8.429 | -1.529 | 1.515 | 1.032 | 0.764 |
+| **DMSO Control ΔCt** | 0.000 | 5.798 | 2.668 | 1.421 | 1.070 | 5.059 | 5.056 | 7.725 | 2.110 | 2.276 | 6.383 | -2.327 | 0.405 | 1.777 | 0.831 |
+| **Inhibtior treatment ΔCt** | 0.000 | 5.213 | 2.242 | 1.142 | 0.427 | 4.883 | 4.057 | 8.413 | 1.999 | 1.957 | 8.429 | -1.529 | 1.515 | 1.032 | 0.764 |
 
 
 ### **Step 2: Normalization to the Control Group (ΔΔCt)**
@@ -87,7 +87,7 @@ Calculated Parameter: ΔΔCt
 
 $$ΔΔCt = \Delta C_{T,\text{experimental}} - \Delta C_{T,\text{control}}$$
 
-Note: Typically, the average $\Delta C_T$ of the control group is subtracted from each individual sample's $\Delta C_T$.
+Note: Typically, the average ΔCt of the control group is subtracted from each individual sample's ΔCt.
 
 Example 
 
