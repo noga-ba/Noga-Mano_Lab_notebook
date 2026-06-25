@@ -37,7 +37,8 @@
 
 **Figure 2: FASTA sequence sequence *without* ambiguous bases** 
 
-![FASTA sequence *without* ambiguous bases](https://github.com/noga-ba/Noga-Mano_Lab_notebook/blob/3dc93c0219343012b07fa3f76bcb5f401959dd99/images/complete.jpg)
+<img width="747" height="784" alt="complete" src="https://github.com/user-attachments/assets/37802121-166b-4173-9598-9b13810358a6" />
+
 
 - Copy and paste the sequence, including its header, to the document.
 - Edit the sequenced species names according to your WORD doc. (or go back to NCBI search): Mark the sequences number and 'edit sequence name'.
