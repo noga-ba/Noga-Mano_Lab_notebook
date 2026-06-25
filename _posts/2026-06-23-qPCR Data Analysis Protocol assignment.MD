@@ -15,7 +15,9 @@ Post-qPCR mathematical processing is required to eliminate technical-background 
 ### Preliminary Step: Experimental Setup & Gene Selection
 #### **Targeted Genes Defining:** 
 Define your target gene(s) of interest and a stable internal reference (housekeeping) gene:
+
 :memo: Reference (housekeeping) gene: a stable gene which the known stressor/factor we chose to check will not effect it.
+
 :memo: Target gene: gene or genes that we expect to react upon known stressor/factor.
 
 #### **Experimental Design:** 
