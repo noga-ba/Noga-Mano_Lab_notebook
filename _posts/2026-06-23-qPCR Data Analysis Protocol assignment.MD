@@ -1,4 +1,4 @@
-## **qPCR Data Analysis Protocol - Step-by-Step Guide to qPCR Data Analysis: From Raw $C_T$ to Fold Change**
+## **qPCR Data Analysis Protocol - Step-by-Step Guide to qPCR Data Analysis: From Raw *C*<sub>T</sub> to Fold Change**
 #### **Livak Method (Livak & Schmittgen, 2001)** 
 
 ### **Introduction:**
