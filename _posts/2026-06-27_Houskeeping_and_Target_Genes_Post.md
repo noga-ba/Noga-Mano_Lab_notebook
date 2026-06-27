@@ -21,7 +21,7 @@ Pelagic larval stages are considered the dominant dispersal mechanism in corals,
 ### Experimental Manipulation
 Thermal stress acts as a major environmental perturbation that disrupts cell homeostasis, destabilizes protein conformations, and induces the breakdown of the coral-algal symbiosis. To unravel the underlying molecular mechanisms governing damage susceptibility or adaptive resilience in scleractinian corals, I chose to evaluate the transcriptional responses of pelagic larval stages subjected to an acute thermal stress manipulation compared to an ambient control group (normal SST temperature conditions).
 
-### 🧬 1. Internal Reference Genes (Expected Stability)
+### 1. Internal Reference Genes (Expected Stability)
 
 * **Elongation Factor 1-alpha (*EF1α*)**
   * **Expected Expression:** Highly stable, constant baseline expression levels. 
@@ -33,7 +33,7 @@ Thermal stress acts as a major environmental perturbation that disrupts cell hom
 
 ---
 
-### 🎯 2. Experimental Target Genes (Expected Dynamics)
+### 2. Experimental Target Genes (Expected Dynamics)
 
 * **Heat Shock Proteins (*HSP*, e.g., *Hsp70* and *Hsp90*)**
   * **Expected Expression:** Sharp, significant upregulation under elevated temperatures. 
