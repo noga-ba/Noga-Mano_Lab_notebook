@@ -1,4 +1,4 @@
-# Molecular Responses of Coral Holobionts to Thermal Stress
+# qPCR Target Gene Selection for Assessing Molecular Responses of General Coral Holobiont Under Thermal Stress Conditions
 
 ## Introduction
 
@@ -18,9 +18,10 @@ Pelagic larval stages are considered the dominant dispersal mechanism in corals,
 
 ## Experimental Setup and Hypotheses Under Thermal Stress
 
-### Experimental Manipulation
+### Experimental Framework
 Thermal stress acts as a major environmental perturbation that disrupts cell homeostasis, destabilizes protein conformations, and induces the breakdown of the coral-algal symbiosis. To unravel the underlying molecular mechanisms governing damage susceptibility or adaptive resilience in scleractinian corals, I chose to evaluate the transcriptional responses of pelagic larval stages subjected to an acute thermal stress manipulation compared to an ambient control group (normal SST temperature conditions).
 
+### Organism: General Hermatypic Coral
 ### 1. Internal Reference Genes (Expected Stability)
 
 * **Elongation Factor 1-alpha (*EF1α*)**
