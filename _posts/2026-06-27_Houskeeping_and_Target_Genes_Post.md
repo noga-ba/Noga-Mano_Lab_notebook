@@ -8,9 +8,9 @@ The majority of reef-building corals maintain a mutualistic symbiosis with symbi
 
 #### **Reference / Housekeeping Genes**
 In their study, Colín-García et al. (2025) examined gene expression dynamics under elevated temperatures, utilized two specialized housekeeping genes to accurately normalize molecular stress responses via quantitative PCR (qPCR) (Colín-García et al., 2025): 
-**Elongation Factor 1-alpha (*EF1α*):**
+- **Name:** **Elongation Factor 1-alpha (*EF1α*):**
 - **Known biological activity:** A core housekeeping protein, essential for cellular translation during the process of protein synthesis, facilitating translational elongation (Sasikumar et al., 2012). *EF1α* is a common housekeeping protein across genera.
-**Cyclophilin (*CYC*):**
+- **Name:** **Cyclophilin (*CYC*):**
 - **Known biological activity:** A molecular chaperone that catalyzes cellular protein folding and maintains structural stability under stress conditions. *CYC* is universal, evulotionary highly conserved protein, and found to be stable in photosynthetic organisms (Rosic et al., 2011).
 
 Ultimately, the reference gene *EF1α* was established as the **internal reference control for the coral host to provide a stable baseline** for cellular normalization, while *CYC* was **validated as the internal reference control for the algal symbiont** to ensure robust transcriptional evaluation under thermal stress conditions (Colín-García et al., 2025). 
@@ -19,11 +19,11 @@ Ultimately, the reference gene *EF1α* was established as the **internal referen
 Pelagic larval stages are considered the dominant dispersal mechanism in corals, meaning that thermal tolerance and responsiveness to environmental cues play a key role in the preservation of coral reefs in an era of climate change. In a comprehensive RNA-Seq analysis, Meyer et al. (2011) demonstrated that hundreds of genes exhibit significant differential expression during these early stages, highlighting the complex molecular shifts triggered by environmental stress. 
 Among these critical pathways, coral larvae under heat stress, triggers cell apoptosis. 
 
-***tnfsf10* gene:**
+- **Name:** ***tnfsf10* gene:**
 - **Known biological activity:** Initiating the extrinsic programmed cell death (apoptosis) pathway. Upon ligand binding to specific death receptors within the Tumor Necrosis Factor Receptor Superfamily (TNFRSF), it triggers a downstream intracellular caspase cascade, leading to regulated cellular degradation and mortality in response to irreversible environmental stress (Quistad et al., 2014). Apotosis prevents secondary damage (e.g from ROS) and conserves energy waste on unviable cells.
 Although corals possess nature's most diverse TNFRSF repertoire, this extrinsic pathway remains largely uninvestigated, providing a strong scientific justification for analyzing the target gene *tnfsf10* via qPCR (Quistad et al., 2014).
 
-**Heat Shock Protein (*HSPs*):**
+- **Name:** **Heat Shock Protein (*HSPs*):**
 - **Known biological activity:** The group of key target genes comprises the heat shock protein (HSP) family (such as *Hsp70* and *Hsp90*), encode molecular chaperones (Swinhoe et al., 2026). The chaperones are fundamentally involved in maintaining regular cellular functions, playing a crucial role in preventing protein denaturation under thermal stress. In addition, these highly conserved proteins participate in cell differentiation, morphogenesis, cell signaling, and the overall protection of cells against severe stress and apoptosis (Rosic et al., 2011). 
 
 ---
