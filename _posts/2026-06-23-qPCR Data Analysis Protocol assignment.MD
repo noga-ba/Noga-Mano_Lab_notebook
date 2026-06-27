@@ -1,5 +1,5 @@
 ## **qPCR Data Analysis Protocol - Step-by-Step Guide to qPCR Data Analysis: From Raw *C*<sub>t</sub> to Fold Change**
-#### **Livak Method (Livak & Schmittgen, 2001)** 
+### **Livak Method (Livak & Schmittgen, 2001)** 
 
 ##### Noga Mano | Research Methods B | June 2026
 
