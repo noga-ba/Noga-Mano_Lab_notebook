@@ -1,0 +1,15 @@
+﻿Input PCR template:     None
+Specificity of primers: Target templates were found in selected database: Nucleotide collection (nt) (Organism limited to Rhodophyta)
+
+Forward primer Sequence (5'->3'):           TGAGAGACGGCTACCACATC
+Forward primer Length:                      20
+Forward primer Tm:                          58.90
+Forward primer GC%:                         55.00
+Forward primer Self complementarity:        4.00
+Forward primer Self 3' complementarity:     2.00
+Reverse primer Sequence (5'->3'):           TCTGCTGGCTCCTCGATAAG
+Reverse primer Length:                      20
+Reverse primer Tm:                          58.96
+Reverse primer GC%:                         55.00
+Reverse primer Self complementarity:        4.00
+Reverse primer Self 3' complementarity:     4.00
