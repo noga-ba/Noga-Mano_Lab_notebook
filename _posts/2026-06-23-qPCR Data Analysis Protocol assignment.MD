@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "qPCR Data Analysis Protocol - Step-by-Step Guide to qPCR Data Analysis: From Raw *C*<sub>t</sub> to Fold Change"
+title: "qPCR Data Analysis Protocol - Step-by-Step Guide to qPCR Data Analysis: From Raw Ct to Fold Change"
 date: 2026-06-27
 ---
 
