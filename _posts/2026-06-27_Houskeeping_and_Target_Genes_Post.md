@@ -6,7 +6,7 @@ Over the last several decades, rising global sea surface temperatures (SST) have
 
 The majority of reef-building corals maintain a mutualistic symbiosis with symbiotic dinoflagellates, a foundational relationship upon which their survival and capacity to withstand environmental perturbations heavily depend. Because holobiont performance and bleaching susceptibility are directly dictated by the complex interactions between these compartments, corals must be holistically evaluated as an integrated holobiont rather than isolated entities. Consequently, any comprehensive assessment of thermal tolerance must account for the distinct physiological strategies, evolutionary pressures, and mechanisms of mutual support shared between the coral hosts and their endosymbionts. 
 
-#### **Reference / Housekeeping Genes**
+### **Reference / Housekeeping Genes**
 In their study, Colín-García et al. (2025) examined gene expression dynamics under elevated temperatures, utilized two specialized housekeeping genes to accurately normalize molecular stress responses via quantitative PCR (qPCR) (Colín-García et al., 2025): 
 - **Name:** **Elongation Factor 1-alpha (*EF1α*):**
 > **Known biological activity:** A core housekeeping protein, essential for cellular translation during the process of protein synthesis, facilitating translational elongation (Sasikumar et al., 2012). *EF1α* is a common housekeeping protein across genera.
@@ -15,7 +15,7 @@ In their study, Colín-García et al. (2025) examined gene expression dynamics u
 
 Ultimately, the reference gene *EF1α* was established as the **internal reference control for the coral host to provide a stable baseline** for cellular normalization, while *CYC* was **validated as the internal reference control for the algal symbiont** to ensure robust transcriptional evaluation under thermal stress conditions (Colín-García et al., 2025). 
 
-#### **Target Genes**
+### **Target Genes**
 Pelagic larval stages are considered the dominant dispersal mechanism in corals, meaning that thermal tolerance and responsiveness to environmental cues play a key role in the preservation of coral reefs in an era of climate change. In a comprehensive RNA-Seq analysis, Meyer et al. (2011) demonstrated that hundreds of genes exhibit significant differential expression during these early stages, highlighting the complex molecular shifts triggered by environmental stress. 
 Among these critical pathways, coral larvae under heat stress, triggers cell apoptosis. 
 
