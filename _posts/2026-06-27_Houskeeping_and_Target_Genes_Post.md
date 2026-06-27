@@ -21,25 +21,46 @@ Pelagic larval stages are considered the dominant dispersal mechanism in corals,
 ### Experimental Framework
 Thermal stress acts as a major environmental perturbation that disrupts cell homeostasis, destabilizes protein conformations, and induces the breakdown of the coral-algal symbiosis. To unravel the underlying molecular mechanisms governing damage susceptibility or adaptive resilience in scleractinian corals, I chose to evaluate the transcriptional responses of pelagic larval stages subjected to an acute thermal stress manipulation compared to an ambient control group (normal SST temperature conditions).
 
-### Organism: General Hermatypic Coral
+### Organism: 
+General Hermatypic Coral
+### Experiment (schematic design):
+Thermal Thresholds of newly-released *Stylophora pistillata* Larvae, Settlement and Transcriptomic Response
+Treatment (Temperature): 
+
+**25°C** (Ambient Control)
+
+**29°C** (Moderate Stress)
+
+**32°C** (Acute Stress)
+
+ Replicates (n) = 4
+ 
+ Planulae per Replicate = 25
+
+Daily observation: 
+Survival
+Settlement
+
+Analysis of Transcriptomic Response: A group of planulae (n=4) will be removed daily from each replicate. Under RNA-safe fixation process, will be frozen for molecular analysis.
+
 ### 1. Internal Reference Genes (Expected Stability)
 
-* **Elongation Factor 1-alpha (*EF1α*)**
+#### **Elongation Factor 1-alpha (*EF1α*)**
   * **Expected Expression:** Highly stable, constant baseline expression levels. 
-  * **Justification:** Given its continuous and fundamental role in translational elongation (Sasikumar et al., 2012), its transcription remains unaffected by environmental shifts, making it an ideal baseline for coral host normalization under thermal stress. 
+  * **Rationale:** Given its continuous and fundamental role in translational elongation (Sasikumar et al., 2012), its transcription remains unaffected by environmental shifts, making it an ideal baseline for coral host normalization under thermal stress. 
 
-* **Cyclophilin (*CYC*)**
+#### **Cyclophilin (*CYC*)**
   * **Expected Expression:** Constant, unaltered transcription levels across all groups.
-  * **Justification:** As a highly conserved chaperone required for baseline protein folding, its transcriptional resilience under severe thermal and light stress makes it a validated reference control for the *Symbiodiniaceae* compartment (Rosic et al., 2011).
+  * **Rationale:** As a highly conserved chaperone required for baseline protein folding, its transcriptional resilience under severe thermal and light stress makes it a validated reference control for the *Symbiodiniaceae* compartment (Rosic et al., 2011).
 
----
+
 
 ### 2. Experimental Target Genes (Expected Dynamics)
 
-* **Heat Shock Proteins (*HSP*, e.g., *Hsp70* and *Hsp90*)**
+**Heat Shock Proteins (*HSP*, e.g., *Hsp70* and *Hsp90*)**
   * **Expected Expression:** Sharp, significant upregulation under elevated temperatures. 
-  * **Justification:** Because heat stress directly denatures cellular proteins, the dynamic overexpression of these molecular chaperones is critically required to mitigate oxidative damage, refold damaged proteins, and prevent thermal bleaching (Rosic et al., 2011; Swinhoe et al., 2026). Furthermore, an early, synchronized upregulation of *hsp70* across both symbiont and host compartments represents a critical molecular strategy that minimizes bleaching susceptibility.
+  * **Rationale:** Because heat stress directly denatures cellular proteins, the dynamic overexpression of these molecular chaperones is critically required to mitigate oxidative damage, refold damaged proteins, and prevent thermal bleaching (Rosic et al., 2011; Swinhoe et al., 2026). Furthermore, an early, synchronized upregulation of *hsp70* across both symbiont and host compartments represents a critical molecular strategy that minimizes bleaching susceptibility.
 
 * **Tumor Necrosis Factor Receptor-Associated Ligand 10 (*tnfsf10*)**
   * **Expected Expression:** Pronounced upregulation corresponding to stress intensity. 
-  * **Justification:** When thermal stress surpasses cellular protective thresholds, the initiation of programmed cell death triggers the extrinsic apoptotic pathway. Tracking *tnfsf10* transcript dynamics serves as a highly sensitive biomarker for quantifying stress-induced cellular mortality (Quistad et al., 2014).
+  * **Rationale:** When thermal stress surpasses cellular protective thresholds, the initiation of programmed cell death triggers the extrinsic apoptotic pathway. Tracking *tnfsf10* transcript dynamics serves as a highly sensitive biomarker for quantifying stress-induced cellular mortality (Quistad et al., 2014).
