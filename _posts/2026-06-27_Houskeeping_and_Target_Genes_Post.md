@@ -1,6 +1,6 @@
 # qPCR Target Gene Selection for Assessing Molecular Responses of General Coral Holobiont Under Thermal Stress Conditions
 
-##### Submitted by: Noga Mano, June 2026
+##### Noga Mano| Research Methods B | June 2026
 
 ## Introduction
 
