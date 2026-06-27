@@ -76,7 +76,7 @@ Analysis of Transcriptomic Response: A group of planulae (n=4) will be removed d
 ---
 
 
-**References:**
+### **References:**
 
 Colín Garcia, N. A., Ocaña-Mendoza, C., Carrara, X. C., Rioja-Nieto, R., Calle-Triviño, J., & Pérez-Ángel, D. A. (2025). **Characterization and Expression of *Hsp70* Gene in Corals: A Comparative Responses of Coral Hosts and Symbiodinium to Thermal Stress in Three Coral Species**. Available at SSRN 5119646.‏ 
 
