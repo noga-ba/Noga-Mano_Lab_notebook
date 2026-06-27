@@ -71,5 +71,17 @@ Analysis of Transcriptomic Response: A group of planulae (n=4) will be removed d
   * **Expected Expression:** Pronounced upregulation corresponding to stress intensity. 
   * **Rationale:** When thermal stress surpasses cellular protective thresholds, the initiation of programmed cell death triggers the extrinsic apoptotic pathway. Tracking *tnfsf10* transcript dynamics serves as a highly sensitive biomarker for quantifying stress-induced cellular mortality (Quistad et al., 2014).
  
+---
+**References:**
+Colín Garcia, N. A., Ocaña-Mendoza, C., Carrara, X. C., Rioja-Nieto, R., Calle-Triviño, J., & Pérez-Ángel, D. A. (2025). **Characterization and Expression of *Hsp70* Gene in Corals: A Comparative Responses of Coral Hosts and Symbiodinium to Thermal Stress in Three Coral Species**. Available at SSRN 5119646.‏ 
 
-References:
+Drury, C., Bean, N. K., Harris, C. I., Hancock, J. R., Huckeba, J., Roach, T. N., ... & Gates, R. D. (2022). **Intrapopulation adaptive variance supports thermal tolerance in a reef-building coral.** Communications biology, 5(1), 486.‏ 
+
+Quistad, S. D., Stotland, A., Barott, K. L., Smurthwaite, C. A., Hilton, B. J., Grasis, J. A., ... & Rohwer, F. L. (2014). **Evolution of TNF-induced apoptosis reveals 550 My of functional conservation.** Proceedings of the National Academy of Sciences, 111(26), 9567-9572. 
+
+Rosic, N. N., Pernice, M., Dove, S., Dunn, S., & Hoegh-Guldberg, O. (2011). **Gene expression profiles of cytosolic heat shock proteins *Hsp70* and *Hsp90* from symbiotic dinoflagellates in response to thermal stress: possible implications for coral bleaching.** Cell Stress and Chaperones, 16(1), 69-80. 
+
+Sasikumar, A. N., Perez, W. B., & Kinzy, T. G. (2012). **The many roles of the eukaryotic elongation factor 1 complex.** Wiley Interdisciplinary Reviews: RNA, 3(4), 543-555.‏ 
+
+Swinhoe, N., Tinoco, A. I., Sarfati, D. N., Henderson, C. F., Kowalewski, G. P., Meier, E. K., ... & Cleves, P. A. (2026). **CRISPR/Cas9-mutagenesis reveals that varying dependence on *HSF1* is associated with differences in coral heat tolerance.** bioRxiv, 2026-04. 
+
