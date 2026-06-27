@@ -1,5 +1,7 @@
 # qPCR Target Gene Selection for Assessing Molecular Responses of General Coral Holobiont Under Thermal Stress Conditions
 
+##### Submitted by: Noga Mano, June 2026
+
 ## Introduction
 
 Over the last several decades, rising global sea surface temperatures (SST) have driven a severe deterioration of marine ecosystems worldwide by inducing the breakdown of the coral-algal symbiosis under heat stress, leading to widespread coral bleaching and accelerated mortality (Swinhoe et al., 2026). These escalating thermal anomalies critically disrupt the early life-history stages of reef-building species, compromising larval and juvenile survival and directly threatening long-term coral recruitment and reef persistence (Drury et al., 2022). Consequently, major research efforts have focused on unraveling the underlying molecular, genetic, and physiological mechanisms that govern either damage susceptibility or adaptive thermal tolerance pathways within scleractinian holobionts. 
