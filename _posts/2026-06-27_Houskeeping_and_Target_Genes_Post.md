@@ -70,9 +70,14 @@ Analysis of Transcriptomic Response: A group of planulae (n=4) will be removed d
 * **Tumor Necrosis Factor Receptor-Associated Ligand 10 (*tnfsf10*)**
   * **Expected Expression:** Pronounced upregulation corresponding to stress intensity. 
   * **Rationale:** When thermal stress surpasses cellular protective thresholds, the initiation of programmed cell death triggers the extrinsic apoptotic pathway. Tracking *tnfsf10* transcript dynamics serves as a highly sensitive biomarker for quantifying stress-induced cellular mortality (Quistad et al., 2014).
+
+
  
 ---
+
+
 **References:**
+
 Colín Garcia, N. A., Ocaña-Mendoza, C., Carrara, X. C., Rioja-Nieto, R., Calle-Triviño, J., & Pérez-Ángel, D. A. (2025). **Characterization and Expression of *Hsp70* Gene in Corals: A Comparative Responses of Coral Hosts and Symbiodinium to Thermal Stress in Three Coral Species**. Available at SSRN 5119646.‏ 
 
 Drury, C., Bean, N. K., Harris, C. I., Hancock, J. R., Huckeba, J., Roach, T. N., ... & Gates, R. D. (2022). **Intrapopulation adaptive variance supports thermal tolerance in a reef-building coral.** Communications biology, 5(1), 486.‏ 
