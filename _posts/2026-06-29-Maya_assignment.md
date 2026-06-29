@@ -29,6 +29,8 @@ In this study, we aimed to:
 Specimens were collected on April 16th, 2026, from the abrasion platforms at Sdot Yam (Israel), the eastern Mediterranean Sea, intertidal zone. Coordinates: X:189637, Y:710976. 
 
 Figure 1: Study site
+<img width="4218" height="1663" alt="study_site" src="https://github.com/user-attachments/assets/0b00120a-60ad-4365-9186-29945488705f" />
+
 
 The specimens collected manually by the course students, from two general niches, that differ mainly by their exposure to sunlight:
 
@@ -36,10 +38,12 @@ A). The abrasion platforms surface: algae fully exposed to natural, unshaded sun
 
 Figure 2: Abrasion platforms, Sdot Yam
 
+<img width="4608" height="3456" alt="abrasion_platform_view" src="https://github.com/user-attachments/assets/2ad0e0c2-e925-4ab6-8539-136a3ff02dc9" />
 
 B). A deep rock pool of approximately 1 m depth, within the abrasion platforms. Its three-dimensional topography creates distinct micro-niches: the pool floor and internal walls with varying orientations towards sunlight, terms as "Non-Acclimated"
 
 Figure 3: The rock pool
+<img width="4608" height="3456" alt="pool" src="https://github.com/user-attachments/assets/053911ab-5dca-4447-8477-45655ce1f5f4" />
 
 #### Species Identification 
 
