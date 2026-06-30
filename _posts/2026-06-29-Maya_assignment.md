@@ -271,7 +271,7 @@ To accurately interpret these findings, several confounding operational constrai
 
 4. **Morphological Heterogeneity and Optical Artifacts:** While PAM fluorometry utilizes normalized fluorescence ratios (such as $F_v/F_m$) and surveys a fixed optical sensor area—making individual measurements independent of total sample biomass or weight—variations in tissue thickness and macroalgal architecture introduce distinct experimental artifacts. The opportunistic sampling strategy yielded specimens with highly diverse structural traits, ranging from thin, distromate sheets to thick, corticated, or branched thalli. In structurally thick tissues, the PAM excitation light primarily probes the outermost cortical cell layers, while deeper medullary tissues remain self-shaded, potentially decoupling the optical signal from the bulk physiological state of the organism. Furthermore, variations in tissue preparation, such as the accidental overlapping, folding, or curling of thalli within the laboratory multi-well plates, can alter the localized light absorption micro-environment and distort non-photochemical quenching ($NPQ$) kinetics. This lack of structural and morphological standardization across opportunistic replicates introduces non-environmental physical noise that complicates the clean extraction of habitat-driven physiological signals.
 
-#### Optimized Future Experimental Re-design and Recommendations for Future Frameworks
+#### Optimized Experimental Re-design and Recommendations for Future Frameworks
 
 To transition from this rudimentary survey to a rigorous, publishable experimental framework, the following methodological modifications are proposed for future investigations:
 
