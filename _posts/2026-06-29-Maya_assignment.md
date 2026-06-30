@@ -11,17 +11,21 @@ The current study was carried out as part of a research methods course held at t
 
 ### Aims
 In this study, we aimed to: 
-1. Examine the photophysiological adaptations of a variety of macroalgal species, inhabiting the abrasion platforms near the Sdot Yam coast. 
+1. Examine the photophysiological adaptations of a variety of macroalgal species, inhabiting the abrasion platforms near the Sdot Yam offshore. 
 2. Analyze the data, using R.
 3. Determine the strengths and/or limitations of the method used.
 4. Learn how to make a detailed report.
 
 ### Experiment Design
 
-The study employed a multi-factorial, comparative experimental design aimed at evaluating the influence of micro-niche variations on the photophysiology of various macroalgae species. The design was structured around three primary exploratory axes: a. Habitat Niche (Environmental Factor): Specimens were collected from two distinct tidal zones on the Sdot Yam abrasion platforms:The Rock Surface: A high-exposure habitat characterized by an aspect fully open to direct, unshaded natural sunlight.The Rock Pool: A structurally complex habitat situated at a depth of approximately 1 m, where its three-dimensional topography established micro-niches (the pool floor and internal walls with varying orientations).Taxonomic Diversity: The sampling matrix incorporated multiple algal species across different families to explore inter-specific variations in physiological plasticity.Laboratory Processing State (Treatment Factor): To evaluate physiological responses and manage laboratory constraints, specimens were divided into two experimental groups:An Acclimatized Group: Plates containing arranged specimens that underwent immediate measurement.A Non-Acclimatized Group: Plates maintained in temporary darkness inside a drawer to shield them from ambient laboratory light while the first group was actively being profiled.The primary response variables consisted of chlorophyll a fluorescence parameters ($F_v/F_m$, $ETR_{max}$, $NPQ_{max}$, and $NPQ_{auc}$) extracted via PAM fluorometry.
+## 2. Experimental Design
 
+The study employed a comparative experimental design to evaluate the effects of macro-habitat and light-regime variations on the photophysiology of various macroalgae species. The design was structured around two distinct light niches within the intertidal zone: 
 
+1. **The surface of the abrasion platforms:** A homogeneous, high-irradiance environment characterized by full exposure to solar irradiance without any shading, representing a **chronic high-light** regime. At the time of sampling, the algae on the platform surfaces were fully submerged in ankle-deep water (Figure 2).
+2. **A rock pool:** A structurally complex habitat with a depth of approximately 1 m (Figure 3), characterized by a **dynamic light regime**. In the pool, the light field is governed by topographic shading from the vertical walls (which possess varying orientations) and optical attenuation by the water column. This combination creates a patchwork of diffuse light micro-niches, resulting in a highly heterogeneous environment compared to the exposed platform surface.
 
+The experimental treatments focused on comparing the baseline photophysiological parameters of algae collected from these two contrasting environments, with response variables subsequently evaluated in the laboratory using a Pulse Amplitude Modulation (PAM) fluorometer.
 
 ### Materials & Methods
 
@@ -35,13 +39,13 @@ Figure 1: Study site
 
 The specimens collected manually by the course students, from two general niches, that differ mainly by their exposure to sunlight:
 
-A). The abrasion platforms surface: algae fully exposed to natural, unshaded sunlight (upward exposure), terms as "Acclimated".
+A). The abrasion platforms surface: algae fully exposed to natural, unshaded sunlight (upward exposure), terms as "Chronic high-light".
 
 Figure 2: Abrasion platforms, Sdot Yam
 <img width="4608" height="3456" alt="abrasion_platform_view" src="https://github.com/user-attachments/assets/34a699c3-1429-4342-84e4-e9120914bea5" />
 
 
-B). A deep rock pool of approximately 1 m depth, within the abrasion platforms. Its three-dimensional topography creates distinct micro-niches: the pool floor and internal walls with varying orientations towards sunlight, terms as "Non-Acclimated"
+B). A deep rock pool of approximately 1 m depth, within the abrasion platforms. Its three-dimensional topography creates distinct micro-niches: the pool floor and internal walls with varying orientations towards sunlight, terms as "dynamic light regime"
 
 Figure 3: The rock pool
 <img width="4608" height="3456" alt="pool" src="https://github.com/user-attachments/assets/91ad918d-3638-462e-9314-64ea3e759fef" />
@@ -59,13 +63,13 @@ Following collection, the specimens were put in individual plastic bags and and 
 
 #### Sample Preparation for Laboratory Analysis
 
-Upon arrival at the laboratory, the lights turned off, and the specimens were removed from the sampling bags and arranged on two separate glass Petri dishes: Acclimated and Non-acclimated.
+Upon arrival at the laboratory, the lights turned off, and the specimens were removed from the sampling bags and arranged on two separate glass Petri dishes: **"Chronic high-light"** and **"Dynamic light regime"**.
 Each dish was divided into distinct squares, with a different algal species allocated to each square.
-Digital images of the dishes were captured. While the acclimated dish was undergoing measurement, the non-acclimated dish was maintained in a dark drawer. 
+Digital images of the dishes were captured. While the "Chronic high-light" dish was undergoing measurement, the "Dynamic light regime" dish was maintained in a dark drawer. 
 
 Figure 5: Specimens set on the dishes
 <img width="3312" height="1610" alt="specimens_plates" src="https://github.com/user-attachments/assets/5394c828-1319-4166-88e2-2e5b7030ad2d" />
-##### Specimens were set on two different petri-dishes. *a* Acclimated; *b* Non-acclimated.
+##### Specimens were set on two different petri-dishes. *a* Chronic high-light; *b* Dynamic light regime.
 
 
 #### Photophysiological Measurements
