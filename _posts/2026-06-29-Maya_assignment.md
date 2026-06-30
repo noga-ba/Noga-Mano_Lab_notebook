@@ -40,6 +40,7 @@ Specimens were collected on April 16th, 2026, from the abrasion platforms at Sdo
 ##### **Figure 1: Study site**
 
 
+
 The specimens collected manually by the course students, from two general niches, that differ mainly by their exposure to sunlight:
 
 A). The abrasion platforms surface: algae fully exposed to natural, unshaded sunlight (upward exposure) - chronic high-light, terms as "Chronic".
@@ -51,6 +52,7 @@ A). The abrasion platforms surface: algae fully exposed to natural, unshaded sun
 ##### **Figure 2: Abrasion platforms, Sdot Yam**
 
 
+
 B). A deep rock pool of approximately 1 m depth, within the abrasion platforms. Its three-dimensional topography creates distinct micro-niches: the pool floor and internal walls with varying orientations towards sunlight, dynamic light regime, terms as "dynamic"
 
 
@@ -58,6 +60,7 @@ B). A deep rock pool of approximately 1 m depth, within the abrasion platforms. 
 <img width="4608" height="3456" alt="pool" src="https://github.com/user-attachments/assets/91ad918d-3638-462e-9314-64ea3e759fef" />
 
 ##### **Figure 3: The rock pool**
+
 
 
 #### Species Identification 
@@ -69,6 +72,7 @@ Macroalgae were identified using "Field Identification Boards" and personal prev
 <img width="2191" height="2899" alt="macroalgae" src="https://github.com/user-attachments/assets/0543ab27-dd0b-4e73-9f66-ac077c9a8e47" />
 
 ##### **Figure 4: Field Identification Boards**
+
 
 
 Following collection, the specimens were put in individual plastic bags and and were immediately placed in an opaque container, then brought to the laboratory for photophysiological analysis. 
@@ -85,6 +89,7 @@ Digital images of the dishes were captured. While the "Chronic high-light" dish 
 
 ##### **Figure 5: Specimens set on the dishes**
 ##### Specimens were set on two different petri-dishes. *a* Chronic high-light; *b* Dynamic light regime.
+
 
 
 #### Photophysiological Measurements
