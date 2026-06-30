@@ -18,8 +18,6 @@ In this study, we aimed to:
 
 ### Experiment Design
 
-## Experimental Design
-
 The study employed a comparative experimental design to evaluate the effects of macro-habitat and light-regime variations on the photophysiology of various macroalgae species. The design was structured around two distinct light niches within the intertidal zone: 
 
 1. **The surface of the abrasion platforms:** A homogeneous, high-irradiance environment characterized by full exposure to solar irradiance without any shading, representing a **chronic high-light** regime. At the time of sampling, the algae on the platform surfaces were fully submerged in ankle-deep water (Figure 2).
