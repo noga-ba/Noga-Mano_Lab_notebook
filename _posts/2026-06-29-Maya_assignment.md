@@ -27,6 +27,8 @@ The study employed a comparative experimental design to evaluate the effects of 
 
 The experimental treatments focused on comparing the baseline photophysiological parameters of algae collected from these two contrasting environments, with response variables subsequently evaluated in the laboratory using a Pulse Amplitude Modulation (PAM) fluorometer.
 
+##### Methodological Note: This exercise was conducted within a training framework, the experimental design was intentionally rudimentary and unoptimized. Sampling was opportunistic and carried out by multiple student groups rather than following a strictly counterbalanced, randomized block layout. This operational constraint is evaluated in the subsequent analysis and discussion.
+
 ### Materials & Methods
 
 #### Study Site and Field Sampling
