@@ -115,7 +115,10 @@ Formula:
 *Description:* Area Under the Curve of Non-Photochemical Quenching. The integrated, cumulative photoprotective energy dissipation over the course of the entire measurement protocol.
 *Units:* Dimensionless / Arbitrary Units (AU) 
 
-Data processing, statistical analysis, and visualization were performed using **R software**, utilizing a specialized suite of packages to streamline the data pipeline:
+Statistical analyses and data diagnostics were performed using R software. Prior to conducting parametric hypothesis testing, the underlying assumption of data normality was rigorously evaluated for all monitored photophysiological parameters ($F_v/F_m$, $ETR_{max}$, $NPQ_{max}$, and $NPQ_{auc}$) within each experimental group (group A - dynamic lihjt regime and group B - chronic high-light). Normality was assessed visually using normal quantile-quantile (Q-Q) plots, which map the empirical data replicates against a theoretical standard normal distribution. The close adherence of the observed data points along the linear diagonal reference lines confirmed that the datasets conformed to a normal distribution. This diagnostic step validated the prerequisite assumptions, thereby justifying the application of downstream parametric statistical tests to evaluate the physiological differences between the two tidal habitats.
+
+ 
+The R packages utilized for data analysis included: 
 
 **dplyr**: Employed for data manipulation and transformation, enabling efficient filtering, subsetting, variable mutation, and calculation of summary statistics (e.g., mean and standard error) across distinct species and habitats.
 
