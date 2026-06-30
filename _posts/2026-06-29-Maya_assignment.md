@@ -18,7 +18,7 @@ In this study, we aimed to:
 
 ### Experiment Design
 
-## 2. Experimental Design
+## Experimental Design
 
 The study employed a comparative experimental design to evaluate the effects of macro-habitat and light-regime variations on the photophysiology of various macroalgae species. The design was structured around two distinct light niches within the intertidal zone: 
 
