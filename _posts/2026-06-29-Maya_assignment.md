@@ -40,28 +40,37 @@ Specimens were collected on April 16th, 2026, from the abrasion platforms at Sdo
 <img width="4218" height="1663" alt="study_site" src="https://github.com/user-attachments/assets/8f22b240-b9b1-4f98-b4f9-8ec01612eea1" />
 
 ##### **Figure 1: Study site**
+
+
 The specimens collected manually by the course students, from two general niches, that differ mainly by their exposure to sunlight:
 
 A). The abrasion platforms surface: algae fully exposed to natural, unshaded sunlight (upward exposure) - chronic high-light, terms as "Chronic".
 
-**Figure 2: Abrasion platforms, Sdot Yam**
+
 
 <img width="4608" height="3456" alt="abrasion_platform_view" src="https://github.com/user-attachments/assets/34a699c3-1429-4342-84e4-e9120914bea5" />
+
+##### **Figure 2: Abrasion platforms, Sdot Yam**
 
 
 B). A deep rock pool of approximately 1 m depth, within the abrasion platforms. Its three-dimensional topography creates distinct micro-niches: the pool floor and internal walls with varying orientations towards sunlight, dynamic light regime, terms as "dynamic"
 
-**Figure 3: The rock pool**
+
 
 <img width="4608" height="3456" alt="pool" src="https://github.com/user-attachments/assets/91ad918d-3638-462e-9314-64ea3e759fef" />
+
+##### **Figure 3: The rock pool**
+
 
 #### Species Identification 
 
 Macroalgae were identified using "Field Identification Boards" and personal previous knowledge.
 
-**Figure 4: Field Identification Boards**
+
 
 <img width="2191" height="2899" alt="macroalgae" src="https://github.com/user-attachments/assets/0543ab27-dd0b-4e73-9f66-ac077c9a8e47" />
+
+##### **Figure 4: Field Identification Boards**
 
 
 Following collection, the specimens were put in individual plastic bags and and were immediately placed in an opaque container, then brought to the laboratory for photophysiological analysis. 
@@ -72,10 +81,11 @@ Upon arrival at the laboratory, the lights turned off, and the specimens were re
 Each dish was divided into distinct squares, with a different algal species allocated to each square.
 Digital images of the dishes were captured. While the "Chronic high-light" dish was undergoing measurement, the "Dynamic light regime" dish was maintained in a dark drawer. 
 
-**Figure 5: Specimens set on the dishes**
+
 
 <img width="3312" height="1610" alt="specimens_plates" src="https://github.com/user-attachments/assets/5394c828-1319-4166-88e2-2e5b7030ad2d" />
 
+##### **Figure 5: Specimens set on the dishes**
 ##### Specimens were set on two different petri-dishes. *a* Chronic high-light; *b* Dynamic light regime.
 
 
@@ -210,18 +220,22 @@ Calculated data are shown in tables 1-4 below.
 
 To verify the prerequisites required for parametric statistical testing, normal quantile-quantile (Q-Q) plots were generated for each of the four photophysiological parameters ($F_v/F_m$, $ETR_{max}$, $NPQ_{max}$, and $NPQ_{auc}$) across both experimental groups (Treatment A - dynamic light regime, and Treatment B - chronic high-light) (figure 6). Visual inspection of the Q-Q plots revealed that the empirical data points closely aligned with the linear theoretical reference lines in all panels. No severe skewness, heavy-tailed patterns, or significant outliers were observed. Despite the small sample size inherent to this training framework, these diagnostics confirm that the dataset satisfies the assumption of normality, thereby validating the use of downstream parametric analyses (e.g., Student's t-test or ANOVA) to evaluate the physiological differences between the two tidal niches.
 
-**Figure 7: Normal Quantile-Quantile (Q-Q) plots for photophysiological parameters**
+
 
 <img width="1740" height="1050" alt="qqplot" src="https://github.com/user-attachments/assets/2f6ad66f-ec06-4386-b0e3-e0946c1f931e" />
+
+##### **Figure 6: Normal Quantile-Quantile (Q-Q) plots for photophysiological parameters**
 
 ###### $ETR_{max}$), Maximum Quantum Efficiency of Photosystem II ($F_v/F_m$), Area Under the Curve of Non-Photochemical Quenching ($NPQ_{auc}$), and Maximum Non-Photochemical Quenching ($NPQ_{max}$) across the two experimental groups (Treatment A = Red, Rock Pool; Treatment B = Cyan, Platform Surface).The horizontal axis displays the theoretical quantiles derived from a standard normal distribution (Z-scores), while the vertical axis indicates the observed values for each respective parameter. The solid diagonal lines represent the ideal normal distribution profile for each treatment. The close alignment of the empirical data points along the reference lines validates the assumption of normality required for downstream parametric statistical analyses, despite the small sample sizes.
 
 
 Photophysiological profiling revealed contrasting photosynthetic strategies and stress responses between the two macroalgal habitats (Figure 7). Specimens from the rock pool (Treatment A - Dynamic light regime) exhibited significantly higher and tightly clustered $F_v/F_m$ values (median ~0.70), indicating optimized Photosystem II (PSII) efficiency and a lack of severe photoinhibitory stress due to topographic shading. Conversely, these specimens demonstrated a lower photosynthetic capacity, with a diminished maximum electron transport rate ($ETR_{max}$, median ~10).In contrast, specimens from the wave-cut platform surface (Treatment B - Chronic high-light) displayed a marked depression and high variability in $F_v/F_m$ (median ~0.50), capturing a clear signal of chronic photoinhibition induced by unshaded solar irradiance. However, these sun-exposed algae exhibited functional acclimation via a substantially higher $ETR_{max}$ (median ~26), reflecting an enhanced capacity to utilize elevated light levels. Interestingly, while median non-photochemical quenching parameters ($NPQ_{max}$ and $NPQ_{auc}$) were comparable between groups, Treatment B exhibited a much wider dispersion of data points, highlighting highly heterogeneous photoprotective responses across the exposed platform niche.
 
-**Figure 7: The effect pf light regime on photophysiology parameters in macroalgae grown on abrasion platforms offshore Sdot Yam, eastern Mediterranean, Israel**
+
 
 <img width="3786" height="2328" alt="photophysiology_boxplot" src="https://github.com/user-attachments/assets/934db649-2575-469f-8fbf-fe820b8712c7" />
+
+##### **Figure 7: The effect pf light regime on photophysiology parameters in macroalgae grown on abrasion platforms offshore Sdot Yam, eastern Mediterranean, Israel**
 
 ###### Comparative photophysiological profiles of macroalgal specimens under contrasting light regimes. > The four panels display key photosynthetic parameters extracted via Pulse Amplitude Modulation (PAM) fluorometry (clockwize): Maximum Electron Transport Rate ($ETR_{max}$), Maximum Quantum Efficiency of Photosystem II ($F_v/F_m$), Area Under the Curve of Non-Photochemical Quenching ($NPQ_{auc}$), and Maximum Non-Photochemical Quenching ($NPQ_{max}$). Experimental groups represent distinct tidal micro-niches from the Sdot Yam abrasion platforms: Treatment A (Red) denotes specimens collected from the rock pool, characterized by a dynamic light regime with topographic shading; Treatment B (Cyan) denotes specimens collected from the wave-cut platform surface, subject to a chronic high-light regime. Horizontal bars within the boxes represent median values; the boxes outline the interquartile range (IQR, 25th to 75th percentiles); whiskers extend to 1.5 times the IQR. Jittered circles represent individual data replicates to illustrate raw data distribution. Units for $ETR_{max}$ are expressed in $\mu\text{mol\ electrons\ m}^{-2}\text{s}^{-1}$ and for $NPQ_{auc}$ in $\text{a.u.} \cdot \text{sec}$, while $F_v/F_m$ and $NPQ_{max}$ are dimensionless ratios.
 
