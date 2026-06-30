@@ -135,9 +135,9 @@ Data processing, statistical analysis, and visualization were performed using **
 
 ### Results
 
-**Figure 7: Normal Quantile-Quantile (Q-Q) plots for photophysiological parameters**
+**Figure 7: Normal Quantile-Quantile (Q-Q) plots for photophysiological parameters**
 
-
+<img width="3550" height="2152" alt="qqplot" src="https://github.com/user-attachments/assets/2f6ad66f-ec06-4386-b0e3-e0946c1f931e" />
 
 ###### $ETR_{max}$), Maximum Quantum Efficiency of Photosystem II ($F_v/F_m$), Area Under the Curve of Non-Photochemical Quenching ($NPQ_{auc}$), and Maximum Non-Photochemical Quenching ($NPQ_{max}$) across the two experimental groups (Treatment A = Red, Rock Pool; Treatment B = Cyan, Platform Surface).The horizontal axis displays the theoretical quantiles derived from a standard normal distribution (Z-scores), while the vertical axis indicates the observed values for each respective parameter. The solid diagonal lines represent the ideal normal distribution profile for each treatment. The close alignment of the empirical data points along the reference lines validates the assumption of normality required for downstream parametric statistical analyses, despite the small sample sizes.
 
