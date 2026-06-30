@@ -29,21 +29,30 @@ In this study, we aimed to:
 Specimens were collected on April 16th, 2026, from the abrasion platforms at Sdot Yam (Israel), the eastern Mediterranean Sea, intertidal zone. Coordinates: X:189637, Y:710976. 
 
 Figure 1: Study site
+<img width="4218" height="1663" alt="study_site" src="https://github.com/user-attachments/assets/8f22b240-b9b1-4f98-b4f9-8ec01612eea1" />
+
 
 The specimens collected manually by the course students, from two general niches, that differ mainly by their exposure to sunlight:
 
 A). The abrasion platforms surface: algae fully exposed to natural, unshaded sunlight (upward exposure), terms as "Acclimated".
 
 Figure 2: Abrasion platforms, Sdot Yam
+<img width="4608" height="3456" alt="abrasion_platform_view" src="https://github.com/user-attachments/assets/34a699c3-1429-4342-84e4-e9120914bea5" />
 
 
 B). A deep rock pool of approximately 1 m depth, within the abrasion platforms. Its three-dimensional topography creates distinct micro-niches: the pool floor and internal walls with varying orientations towards sunlight, terms as "Non-Acclimated"
 
 Figure 3: The rock pool
+<img width="4608" height="3456" alt="pool" src="https://github.com/user-attachments/assets/91ad918d-3638-462e-9314-64ea3e759fef" />
 
 #### Species Identification 
 
 Macroalgae were identified using "Field Identification Boards" and personal previous knowledge.
+
+Figure 4: Field Identification Boards
+
+
+
 
 Following collection, the specimens were put in individual plastic bags and and were immediately placed in an opaque container, then brought to the laboratory for photophysiological analysis. 
 
@@ -52,6 +61,14 @@ Following collection, the specimens were put in individual plastic bags and and 
 Upon arrival at the laboratory, the lights turned off, and the specimens were removed from the sampling bags and arranged on two separate glass Petri dishes: Acclimated and Non-acclimated.
 Each dish was divided into distinct squares, with a different algal species allocated to each square.
 Digital images of the dishes were captured. While the acclimated dish was undergoing measurement, the non-acclimated dish was maintained in a dark drawer. 
+
+Figure 5: Specimens set on the dishes
+<img width="3312" height="1610" alt="specimens_plates" src="https://github.com/user-attachments/assets/ee406b90-7763-4ed5-bf8a-5235a2175ce0" />
+##### <img width="485" height="139" alt="fvoverfm" src="https://github.com/user-attachments/assets/e8711bc2-e45b-401d-8ecf-dff003024058" />
+<img width="485" height="139" alt="fvoverfm" src="https://github.com/user-attachments/assets/48fcc4e8-f59a-4ba6-a8ee-eb964aaed81b" />
+<img width="485" height="139" alt="fvoverfm" src="https://github.com/user-attachments/assets/cb60030b-9f19-4daf-ac34-c2c080fea001" />
+Specimens were set on two different petri-dishes. *a* Acclimated; *b* Non-acclimated.
+
 
 #### Photophysiological Measurements
 Chlorophyll a fluorescence measurements were performed using a Pulse Amplitude Modulation (PAM) fluorometer. The system selectively monitors fluorescence yield by emitting a low-intensity, modulated measuring light beam that detects fluorescence without inducing active photosynthetic electron transport. To determine the quantum efficiency of Photosystem II ($F_v/F_m$), the specimens from each treatment were exposed to the measuring light to establish minimum fluorescence ($F_0$), immediately followed by a short, high-intensity saturating pulse to transiently close all open reaction centers and record maximum fluorescence ($F_m$). During subsequent kinetic analysis, continuous actinic light was applied to drive active photosynthesis, while periodic saturating pulses were superimposed to calculate electron transport rates ($ETR$) and non-photochemical quenching ($NPQ$).
