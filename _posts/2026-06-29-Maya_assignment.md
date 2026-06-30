@@ -35,7 +35,8 @@ The experimental treatments focused on comparing the baseline photophysiological
 
 Specimens were collected on April 16th, 2026, from the abrasion platforms at Sdot Yam (Israel), the eastern Mediterranean Sea, intertidal zone. Coordinates: X:189637, Y:710976. 
 
-Figure 1: Study site
+**Figure 1: Study site**
+
 <img width="4218" height="1663" alt="study_site" src="https://github.com/user-attachments/assets/8f22b240-b9b1-4f98-b4f9-8ec01612eea1" />
 
 
@@ -43,20 +44,23 @@ The specimens collected manually by the course students, from two general niches
 
 A). The abrasion platforms surface: algae fully exposed to natural, unshaded sunlight (upward exposure) - chronic high-light, terms as "Chronic".
 
-Figure 2: Abrasion platforms, Sdot Yam
+**Figure 2: Abrasion platforms, Sdot Yam**
+
 <img width="4608" height="3456" alt="abrasion_platform_view" src="https://github.com/user-attachments/assets/34a699c3-1429-4342-84e4-e9120914bea5" />
 
 
 B). A deep rock pool of approximately 1 m depth, within the abrasion platforms. Its three-dimensional topography creates distinct micro-niches: the pool floor and internal walls with varying orientations towards sunlight, dynamic light regime, terms as "dynamic"
 
-Figure 3: The rock pool
+**Figure 3: The rock pool**
+
 <img width="4608" height="3456" alt="pool" src="https://github.com/user-attachments/assets/91ad918d-3638-462e-9314-64ea3e759fef" />
 
 #### Species Identification 
 
 Macroalgae were identified using "Field Identification Boards" and personal previous knowledge.
 
-Figure 4: Field Identification Boards
+**Figure 4: Field Identification Boards**
+
 <img width="2191" height="2899" alt="macroalgae" src="https://github.com/user-attachments/assets/0543ab27-dd0b-4e73-9f66-ac077c9a8e47" />
 
 
@@ -69,7 +73,8 @@ Upon arrival at the laboratory, the lights turned off, and the specimens were re
 Each dish was divided into distinct squares, with a different algal species allocated to each square.
 Digital images of the dishes were captured. While the "Chronic high-light" dish was undergoing measurement, the "Dynamic light regime" dish was maintained in a dark drawer. 
 
-Figure 5: Specimens set on the dishes
+**Figure 5: Specimens set on the dishes**
+
 <img width="3312" height="1610" alt="specimens_plates" src="https://github.com/user-attachments/assets/5394c828-1319-4166-88e2-2e5b7030ad2d" />
 ##### Specimens were set on two different petri-dishes. *a* Chronic high-light; *b* Dynamic light regime.
 
@@ -132,11 +137,13 @@ Data processing, statistical analysis, and visualization were performed using **
 
 Photophysiological profiling revealed contrasting photosynthetic strategies and stress responses between the two macroalgal habitats (Figure 6). Specimens from the rock pool (Treatment A - Dynamic light regime) exhibited significantly higher and tightly clustered $F_v/F_m$ values (median ~0.70), indicating optimized Photosystem II (PSII) efficiency and a lack of severe photoinhibitory stress due to topographic shading. Conversely, these specimens demonstrated a lower photosynthetic capacity, with a diminished maximum electron transport rate ($ETR_{max}$, median ~10).In contrast, specimens from the wave-cut platform surface (Treatment B - Chronic high-light) displayed a marked depression and high variability in $F_v/F_m$ (median ~0.50), capturing a clear signal of chronic photoinhibition induced by unshaded solar irradiance. However, these sun-exposed algae exhibited functional acclimation via a substantially higher $ETR_{max}$ (median ~26), reflecting an enhanced capacity to utilize elevated light levels. Interestingly, while median non-photochemical quenching parameters ($NPQ_{max}$ and $NPQ_{auc}$) were comparable between groups, Treatment B exhibited a much wider dispersion of data points, highlighting highly heterogeneous photoprotective responses across the exposed platform niche.
 
-Figure 6: The effect pf light regime on photophysiology parameters in macroalgae grown on abrasion platforms offshore Sdot Yam, eastern Mediterranean, Israel
+**Figure 6: The effect pf light regime on photophysiology parameters in macroalgae grown on abrasion platforms offshore Sdot Yam, eastern Mediterranean, Israel**
 
 <img width="3786" height="2328" alt="photophysiology_boxplot" src="https://github.com/user-attachments/assets/934db649-2575-469f-8fbf-fe820b8712c7" />
 
 ###### Comparative photophysiological profiles of macroalgal specimens under contrasting light regimes. > The four panels display key photosynthetic parameters extracted via Pulse Amplitude Modulation (PAM) fluorometry (clockwize): Maximum Electron Transport Rate ($ETR_{max}$), Maximum Quantum Efficiency of Photosystem II ($F_v/F_m$), Area Under the Curve of Non-Photochemical Quenching ($NPQ_{auc}$), and Maximum Non-Photochemical Quenching ($NPQ_{max}$). Experimental groups represent distinct tidal micro-niches from the Sdot Yam abrasion platforms: Treatment A (Red) denotes specimens collected from the rock pool, characterized by a dynamic light regime with topographic shading; Treatment B (Cyan) denotes specimens collected from the wave-cut platform surface, subject to a chronic high-light regime. Horizontal bars within the boxes represent median values; the boxes outline the interquartile range (IQR, 25th to 75th percentiles); whiskers extend to 1.5 times the IQR. Jittered circles represent individual data replicates to illustrate raw data distribution. Units for $ETR_{max}$ are expressed in $\mu\text{mol\ electrons\ m}^{-2}\text{s}^{-1}$ and for $NPQ_{auc}$ in $\text{a.u.} \cdot \text{sec}$, while $F_v/F_m$ and $NPQ_{max}$ are dimensionless ratios.
+
+
 
  
 ### Discussion
