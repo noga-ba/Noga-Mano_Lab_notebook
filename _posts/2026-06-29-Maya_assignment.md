@@ -41,13 +41,13 @@ Figure 1: Study site
 
 The specimens collected manually by the course students, from two general niches, that differ mainly by their exposure to sunlight:
 
-A). The abrasion platforms surface: algae fully exposed to natural, unshaded sunlight (upward exposure), terms as "Chronic high-light".
+A). The abrasion platforms surface: algae fully exposed to natural, unshaded sunlight (upward exposure) - chronic high-light, terms as "Chronic".
 
 Figure 2: Abrasion platforms, Sdot Yam
 <img width="4608" height="3456" alt="abrasion_platform_view" src="https://github.com/user-attachments/assets/34a699c3-1429-4342-84e4-e9120914bea5" />
 
 
-B). A deep rock pool of approximately 1 m depth, within the abrasion platforms. Its three-dimensional topography creates distinct micro-niches: the pool floor and internal walls with varying orientations towards sunlight, terms as "dynamic light regime"
+B). A deep rock pool of approximately 1 m depth, within the abrasion platforms. Its three-dimensional topography creates distinct micro-niches: the pool floor and internal walls with varying orientations towards sunlight, dynamic light regime, terms as "dynamic"
 
 Figure 3: The rock pool
 <img width="4608" height="3456" alt="pool" src="https://github.com/user-attachments/assets/91ad918d-3638-462e-9314-64ea3e759fef" />
@@ -75,7 +75,7 @@ Figure 5: Specimens set on the dishes
 
 
 #### Photophysiological Measurements
-Chlorophyll a fluorescence measurements were performed using a Pulse Amplitude Modulation (PAM) fluorometer. The system selectively monitors fluorescence yield by emitting a low-intensity, modulated measuring light beam that detects fluorescence without inducing active photosynthetic electron transport. To determine the quantum efficiency of Photosystem II ($F_v/F_m$), the specimens from each treatment were exposed to the measuring light to establish minimum fluorescence ($F_0$), immediately followed by a short, high-intensity saturating pulse to transiently close all open reaction centers and record maximum fluorescence ($F_m$). During subsequent kinetic analysis, continuous actinic light was applied to drive active photosynthesis, while periodic saturating pulses were superimposed to calculate electron transport rates ($ETR$) and non-photochemical quenching ($NPQ$).
+Chlorophyll a fluorescence measurements were performed using a Pulse Amplitude Modulation (PAM) fluorometer. The system selectively monitors fluorescence yield by emitting a low-intensity, modulated measuring light beam that detects fluorescence without inducing active photosynthetic electron transport. To determine the quantum efficiency of Photosystem II ($F_v/F_m$), the specimens from each light regime were exposed to the measuring light to establish minimum fluorescence ($F_0$), immediately followed by a short, high-intensity saturating pulse to transiently close all open reaction centers and record maximum fluorescence ($F_m$). During subsequent kinetic analysis, continuous actinic light was applied to drive active photosynthesis, while periodic saturating pulses were superimposed to calculate electron transport rates ($ETR$) and non-photochemical quenching ($NPQ$).
 
 #### Data Processing and Statistical Analysis
 
