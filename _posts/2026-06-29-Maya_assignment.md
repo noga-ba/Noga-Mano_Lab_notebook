@@ -142,6 +142,8 @@ The R packages utilized for data analysis included:
 
 ### Results
 
+Calculated data are shown in tables 1-4 below.
+
 | Sample | Taxon | Treatment | Value |
 | :--- | :--- | :--- | :--- |
 | 1 | *Jania* | A | 30.4 |
@@ -161,6 +163,7 @@ The R packages utilized for data analysis included:
 ##### **Table 1** ETRmax values for the different specimens. Treatment: A - dynamic light regime, B - chronic high-light. 
 
 
+
 | Sample | Taxon | Treatment | Value |
 | :--- | :--- | :--- | :--- |
 | 1 | *Colpomenia* | A | 0.704 |
@@ -175,6 +178,7 @@ The R packages utilized for data analysis included:
 ##### **Table 2** *Fv/Fm* values for the different specimens. Treatment: A - dynamic light regime, B - chronic high-light.
 
 
+
 | Sample | Taxon | Treatment | Value |
 | :--- | :--- | :--- | :--- |
 | 1 | *Colpomenia* | A | 244.28 |
@@ -187,6 +191,7 @@ The R packages utilized for data analysis included:
 | 8 | *Galxaura* | B | 141.67 |
 
 ##### **Table 3** NPQ_auc values for the different specimens. Treatment: A - dynamic light regime, B - chronic high-light.
+
 
 
 | Sample | Taxon | Treatment | Value |
