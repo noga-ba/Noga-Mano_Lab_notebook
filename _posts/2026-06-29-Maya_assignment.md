@@ -142,7 +142,68 @@ The R packages utilized for data analysis included:
 
 ### Results
 
-To verify the prerequisites required for parametric statistical testing, normal quantile-quantile (Q-Q) plots were generated for each of the four photophysiological parameters ($F_v/F_m$, $ETR_{max}$, $NPQ_{max}$, and $NPQ_{auc}$) across both experimental groups (Treatment A and Treatment B) (figure 6). Visual inspection of the Q-Q plots revealed that the empirical data points closely aligned with the linear theoretical reference lines in all panels. No severe skewness, heavy-tailed patterns, or significant outliers were observed. Despite the small sample size inherent to this training framework, these diagnostics confirm that the dataset satisfies the assumption of normality, thereby validating the use of downstream parametric analyses (e.g., Student's t-test or ANOVA) to evaluate the physiological differences between the two tidal niches.
+| Sample | Taxon | Treatment | Value |
+| :--- | :--- | :--- | :--- |
+| 1 | *Jania* | A | 30.4 |
+| 2 | *Halopteris* | A | 6.9 |
+| 3 | *Namaliun* | A | 3.9 |
+| 4 | *Sargassum* | B | 29.6 |
+| 5 | *Hypnea* | B | 23.5 |
+| 6 | *Cudiom* | A | 9.5 |
+| 7 | *Padina* | B | 42.4 |
+| 8 | *Cistosera* | B | 14.9 |
+| 9 | *Ulva* | A | 16.5 |
+| 10 | *Galaxaura* | A | 8.8 |
+| 11 | *Dictyota* | B | 28.7 |
+| 12 | *Colpomenia* | B | 16.8 |
+| 13 | *Ulva* | A | 17.3 |
+
+##### **Table 1** ETRmax values for the different specimens. Treatment: A - dynamic light regime, B - chronic high-light. 
+
+
+| Sample | Taxon | Treatment | Value |
+| :--- | :--- | :--- | :--- |
+| 1 | *Colpomenia* | A | 0.704 |
+| 2 | *Dictyota* | A | 0.712 |
+| 3 | *Sargassum* | A | 0.694 |
+| 4 | *Padina* | B | 0.644 |
+| 5 | *Jania* | B | 0.345 |
+| 6 | *Red UNK* | A | 0.628 |
+| 7 | *Ulva* | B | 0.404 |
+| 8 | *Galxaura* | B | 0.579 |
+
+##### **Table 2** *Fv/Fm* values for the different specimens. Treatment: A - dynamic light regime, B - chronic high-light.
+
+
+| Sample | Taxon | Treatment | Value |
+| :--- | :--- | :--- | :--- |
+| 1 | *Colpomenia* | A | 244.28 |
+| 2 | *Dictyota* | A | 216.07 |
+| 3 | *Sargassum* | A | 181.35 |
+| 4 | *Padina* | B | 234.98 |
+| 5 | *Jania* | B | 199.95 |
+| 6 | *Red UNK* | A | 209.25 |
+| 7 | *Ulva* | B | 218.24 |
+| 8 | *Galxaura* | B | 141.67 |
+
+##### **Table 3** NPQ_auc values for the different specimens. Treatment: A - dynamic light regime, B - chronic high-light.
+
+
+| Sample | Taxon | Treatment | Value |
+| :--- | :--- | :--- | :--- |
+| 1 | *Colpomenia* | A | 0.703 |
+| 2 | *Dictyota* | A | 0.609 |
+| 3 | *Sargassum* | A | 0.519 |
+| 4 | *Padina* | B | 0.681 |
+| 5 | *Jania* | B | 0.5 |
+| 6 | *Red UNK* | A | 0.541 |
+| 7 | *Ulva* | B | 0.648 |
+| 8 | *Galxaura* | B | 0.404 |
+
+##### **Table 4** NPQmax values for the different specimens. Treatment: A - dynamic light regime, B - chronic high-light.
+
+
+To verify the prerequisites required for parametric statistical testing, normal quantile-quantile (Q-Q) plots were generated for each of the four photophysiological parameters ($F_v/F_m$, $ETR_{max}$, $NPQ_{max}$, and $NPQ_{auc}$) across both experimental groups (Treatment A - dynamic light regime, and Treatment B - chronic high-light) (figure 6). Visual inspection of the Q-Q plots revealed that the empirical data points closely aligned with the linear theoretical reference lines in all panels. No severe skewness, heavy-tailed patterns, or significant outliers were observed. Despite the small sample size inherent to this training framework, these diagnostics confirm that the dataset satisfies the assumption of normality, thereby validating the use of downstream parametric analyses (e.g., Student's t-test or ANOVA) to evaluate the physiological differences between the two tidal niches.
 
 **Figure 7: Normal Quantile-Quantile (Q-Q) plots for photophysiological parameters**
 
