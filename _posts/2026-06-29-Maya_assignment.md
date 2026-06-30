@@ -135,6 +135,8 @@ Data processing, statistical analysis, and visualization were performed using **
 
 ### Results
 
+To verify the prerequisites required for parametric statistical testing, normal quantile-quantile (Q-Q) plots were generated for each of the four photophysiological parameters ($F_v/F_m$, $ETR_{max}$, $NPQ_{max}$, and $NPQ_{auc}$) across both experimental groups (Treatment A and Treatment B) (figure 6). Visual inspection of the Q-Q plots revealed that the empirical data points closely aligned with the linear theoretical reference lines in all panels. No severe skewness, heavy-tailed patterns, or significant outliers were observed. Despite the small sample size inherent to this training framework, these diagnostics confirm that the dataset satisfies the assumption of normality, thereby validating the use of downstream parametric analyses (e.g., Student's t-test or ANOVA) to evaluate the physiological differences between the two tidal niches.
+
 **Figure 7: Normal Quantile-Quantile (Q-Q) plots for photophysiological parameters**
 
 <img width="1740" height="1050" alt="qqplot" src="https://github.com/user-attachments/assets/2f6ad66f-ec06-4386-b0e3-e0946c1f931e" />
