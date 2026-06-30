@@ -18,6 +18,7 @@ In this study, we aimed to:
 
 ### Experiment Design
 
+The study employed a multi-factorial, comparative experimental design aimed at evaluating the influence of micro-niche variations on the photophysiology of various macroalgae species. The design was structured around three primary exploratory axes: a. Habitat Niche (Environmental Factor): Specimens were collected from two distinct tidal zones on the Sdot Yam abrasion platforms:The Rock Surface: A high-exposure habitat characterized by an aspect fully open to direct, unshaded natural sunlight.The Rock Pool: A structurally complex habitat situated at a depth of approximately 1 m, where its three-dimensional topography established micro-niches (the pool floor and internal walls with varying orientations).Taxonomic Diversity: The sampling matrix incorporated multiple algal species across different families to explore inter-specific variations in physiological plasticity.Laboratory Processing State (Treatment Factor): To evaluate physiological responses and manage laboratory constraints, specimens were divided into two experimental groups:An Acclimatized Group: Plates containing arranged specimens that underwent immediate measurement.A Non-Acclimatized Group: Plates maintained in temporary darkness inside a drawer to shield them from ambient laboratory light while the first group was actively being profiled.The primary response variables consisted of chlorophyll a fluorescence parameters ($F_v/F_m$, $ETR_{max}$, $NPQ_{max}$, and $NPQ_{auc}$) extracted via PAM fluorometry.
 
 
 
