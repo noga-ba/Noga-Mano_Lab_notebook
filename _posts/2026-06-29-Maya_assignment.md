@@ -100,10 +100,14 @@ Formula:
 
 *Fv* - Variable Fluorescence: The dynamic range of fluorescence (*Fm-F0*)
 
+(Schreiber et al. 1986)
+
 2. **ETRmax**
 
 *Description:* Maximum Electron Transport Rate. The maximum speed of the system at work (Light) = the metabolic power/capacity of the algae.
 *Units:* µmol electrons*m^-2*s^-1
+
+(Genty et. al., 1989)
 
 3. **NPQmax**
 
@@ -120,7 +124,7 @@ Statistical analyses and data diagnostics were performed using R software. Prior
  
 The R packages utilized for data analysis included: 
 
-**dplyr**: Employed for data manipulation and transformation, enabling efficient filtering, subsetting, variable mutation, and calculation of summary statistics (e.g., mean and standard error) across distinct species and habitats.
+**dplyr**: Employed for data manipulation and transformation, enabling efficient filtering, subsetting, variable mutation, and calculation of summary statistics (e.g., mean and standard error) across distinct species and habitats (developed by Wickham et al., 2023).
 
 **tidyr**: Utilized for data tidying and reshaping, ensuring the dataset was properly structured (e.g., converting between wide and long formats) for downstream analysis and modeling.
 
@@ -132,7 +136,7 @@ The R packages utilized for data analysis included:
 
 **broom**: Used to turn messy outputs of statistical models (such as regressions or variance analyses) into clean, structured data frames (tibbles) suitable for reporting and visualization.
 
-**ggplot2**: Employed to construct high-resolution, publication-ready graphical representations of the photophysiological parameters.
+**ggplot2**: Employed to construct high-resolution, publication-ready graphical representations of the photophysiological parameters (developed by Wickham, 2016).
 
 **patchwork**: Utilized to combine and arrange multiple individual plots into cohesive, multi-panel composite figures with synchronized alignment.
 
@@ -192,3 +196,13 @@ To transition from this rudimentary survey to a rigorous, publishable experiment
 
 5. **Optimizing small-group collaboration and preparatory workflows:** Implementing a structured preparatory session prior to the field trip is highly recommended. This session should feature an introductory lecture on the intertidal habitat, and co-designed, mentored experimental planning, including standardized data management protocols (As a participant in the current framework, I felt passive and lacked the agency to actively influence the trajectory of the research design).
 
+
+### References:
+
+Genty, B., Briantais, J. M., & Baker, N. R. (1989). The relationship between the quantum yield of photosynthetic electron transport and quenching of chlorophyll fluorescence. Biochimica et Biophysica Acta (BBA)-General Subjects, 990(1), 87–92.
+
+Schreiber, U., Schliwa, U., & Bilger, W. (1986). Continuous recording of photochemical and non-photochemical chlorophyll fluorescence quenching with a new type of modulation fluorometer. Photosynthesis Research, 10(1), 51–62.
+
+Wickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York.
+
+Wickham, H., François, R., Bryan, J., & Müller, K. (2023). dplyr: A Grammar of Data Manipulation. R package version 1.1.4. https://CRAN.R-project.org/package=dplyr 
