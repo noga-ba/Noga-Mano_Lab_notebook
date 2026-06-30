@@ -64,7 +64,6 @@ Macroalgae were identified using "Field Identification Boards" and personal prev
 <img width="2191" height="2899" alt="macroalgae" src="https://github.com/user-attachments/assets/0543ab27-dd0b-4e73-9f66-ac077c9a8e47" />
 
 
-
 Following collection, the specimens were put in individual plastic bags and and were immediately placed in an opaque container, then brought to the laboratory for photophysiological analysis. 
 
 #### Sample Preparation for Laboratory Analysis
@@ -76,6 +75,7 @@ Digital images of the dishes were captured. While the "Chronic high-light" dish 
 **Figure 5: Specimens set on the dishes**
 
 <img width="3312" height="1610" alt="specimens_plates" src="https://github.com/user-attachments/assets/5394c828-1319-4166-88e2-2e5b7030ad2d" />
+
 ##### Specimens were set on two different petri-dishes. *a* Chronic high-light; *b* Dynamic light regime.
 
 
