@@ -35,11 +35,11 @@ The experimental treatments focused on comparing the baseline photophysiological
 
 Specimens were collected on April 16th, 2026, from the abrasion platforms at Sdot Yam (Israel), the eastern Mediterranean Sea, intertidal zone. Coordinates: X:189637, Y:710976. 
 
-**Figure 1: Study site**
+
 
 <img width="4218" height="1663" alt="study_site" src="https://github.com/user-attachments/assets/8f22b240-b9b1-4f98-b4f9-8ec01612eea1" />
 
-
+**Figure 1: Study site**
 The specimens collected manually by the course students, from two general niches, that differ mainly by their exposure to sunlight:
 
 A). The abrasion platforms surface: algae fully exposed to natural, unshaded sunlight (upward exposure) - chronic high-light, terms as "Chronic".
