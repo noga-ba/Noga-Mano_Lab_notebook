@@ -99,26 +99,27 @@ Formula:
 *Units:* Dimensionless / Ratio
 
 4. **NPQ_auc**
+
 *Description:* Area Under the Curve of Non-Photochemical Quenching. The integrated, cumulative photoprotective energy dissipation over the course of the entire measurement protocol.
 *Units:* Dimensionless / Arbitrary Units (AU) 
 
-Data processing, statistical analysis, and visualization were performed using R software, utilizing a specialized suite of packages to streamline the data pipeline:
+Data processing, statistical analysis, and visualization were performed using **R software**, utilizing a specialized suite of packages to streamline the data pipeline:
 
-dplyr: Employed for data manipulation and transformation, enabling efficient filtering, subsetting, variable mutation, and calculation of summary statistics (e.g., mean and standard error) across distinct species and habitats.
+**dplyr**: Employed for data manipulation and transformation, enabling efficient filtering, subsetting, variable mutation, and calculation of summary statistics (e.g., mean and standard error) across distinct species and habitats.
 
-tidyr: Utilized for data tidying and reshaping, ensuring the dataset was properly structured (e.g., converting between wide and long formats) for downstream analysis and modeling.
+**tidyr**: Utilized for data tidying and reshaping, ensuring the dataset was properly structured (e.g., converting between wide and long formats) for downstream analysis and modeling.
 
-lubridate: Applied to parse, manipulate, and standardize date formats within the experimental metadata.
+**lubridate**: Applied to parse, manipulate, and standardize date formats within the experimental metadata.
 
-hms: Used to manage and format time-of-day data (hours, minutes, seconds), ensuring precise alignment and tracking of measurement intervals.
+**hms**: Used to manage and format time-of-day data (hours, minutes, seconds), ensuring precise alignment and tracking of measurement intervals.
 
-purrr: Facilitated functional programming and iterative operations, allowing automated functions and statistical tests to be applied seamlessly across multiple subsets of the data (e.g., iterating across different algal families).
+**purrr**: Facilitated functional programming and iterative operations, allowing automated functions and statistical tests to be applied seamlessly across multiple subsets of the data (e.g., iterating across different algal families).
 
-broom: Used to turn messy outputs of statistical models (such as regressions or variance analyses) into clean, structured data frames (tibbles) suitable for reporting and visualization.
+**broom**: Used to turn messy outputs of statistical models (such as regressions or variance analyses) into clean, structured data frames (tibbles) suitable for reporting and visualization.
 
-ggplot2: Employed to construct high-resolution, publication-ready graphical representations of the photophysiological parameters.
+**ggplot2**: Employed to construct high-resolution, publication-ready graphical representations of the photophysiological parameters.
 
-patchwork: Utilized to combine and arrange multiple individual plots into cohesive, multi-panel composite figures with synchronized alignment.
+**patchwork**: Utilized to combine and arrange multiple individual plots into cohesive, multi-panel composite figures with synchronized alignment.
 
 ### Results
 
