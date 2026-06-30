@@ -177,6 +177,7 @@ Calculated data are shown in tables 1-4 below.
 
 
 
+
 | Sample | Taxon | Treatment | Value |
 | :--- | :--- | :--- | :--- |
 | 1 | *Colpomenia* | A | 0.704 |
@@ -189,6 +190,7 @@ Calculated data are shown in tables 1-4 below.
 | 8 | *Galxaura* | B | 0.579 |
 
 ##### **Table 2** *Fv/Fm* values for the different specimens. Treatment: A - dynamic light regime, B - chronic high-light.
+
 
 
 
@@ -207,6 +209,7 @@ Calculated data are shown in tables 1-4 below.
 
 
 
+
 | Sample | Taxon | Treatment | Value |
 | :--- | :--- | :--- | :--- |
 | 1 | *Colpomenia* | A | 0.703 |
@@ -221,6 +224,8 @@ Calculated data are shown in tables 1-4 below.
 ##### **Table 4** NPQmax values for the different specimens. Treatment: A - dynamic light regime, B - chronic high-light.
 
 
+
+
 To verify the prerequisites required for parametric statistical testing, normal quantile-quantile (Q-Q) plots were generated for each of the four photophysiological parameters ($F_v/F_m$, $ETR_{max}$, $NPQ_{max}$, and $NPQ_{auc}$) across both experimental groups (Treatment A - dynamic light regime, and Treatment B - chronic high-light) (figure 6). Visual inspection of the Q-Q plots revealed that the empirical data points closely aligned with the linear theoretical reference lines in all panels. No severe skewness, heavy-tailed patterns, or significant outliers were observed. Despite the small sample size inherent to this training framework, these diagnostics confirm that the dataset satisfies the assumption of normality, thereby validating the use of downstream parametric analyses (e.g., Student's t-test or ANOVA) to evaluate the physiological differences between the two tidal niches.
 
 
@@ -230,6 +235,7 @@ To verify the prerequisites required for parametric statistical testing, normal 
 ##### **Figure 6: Normal Quantile-Quantile (Q-Q) plots for photophysiological parameters**
 
 ###### $ETR_{max}$), Maximum Quantum Efficiency of Photosystem II ($F_v/F_m$), Area Under the Curve of Non-Photochemical Quenching ($NPQ_{auc}$), and Maximum Non-Photochemical Quenching ($NPQ_{max}$) across the two experimental groups (Treatment A = Red, Rock Pool; Treatment B = Cyan, Platform Surface).The horizontal axis displays the theoretical quantiles derived from a standard normal distribution (Z-scores), while the vertical axis indicates the observed values for each respective parameter. The solid diagonal lines represent the ideal normal distribution profile for each treatment. The close alignment of the empirical data points along the reference lines validates the assumption of normality required for downstream parametric statistical analyses, despite the small sample sizes.
+
 
 
 Photophysiological profiling revealed contrasting photosynthetic strategies and stress responses between the two macroalgal habitats (Figure 7). Specimens from the rock pool (Treatment A - Dynamic light regime) exhibited significantly higher and tightly clustered $F_v/F_m$ values (median ~0.70), indicating optimized Photosystem II (PSII) efficiency and a lack of severe photoinhibitory stress due to topographic shading. Conversely, these specimens demonstrated a lower photosynthetic capacity, with a diminished maximum electron transport rate ($ETR_{max}$, median ~10).In contrast, specimens from the wave-cut platform surface (Treatment B - Chronic high-light) displayed a marked depression and high variability in $F_v/F_m$ (median ~0.50), capturing a clear signal of chronic photoinhibition induced by unshaded solar irradiance. However, these sun-exposed algae exhibited functional acclimation via a substantially higher $ETR_{max}$ (median ~26), reflecting an enhanced capacity to utilize elevated light levels. Interestingly, while median non-photochemical quenching parameters ($NPQ_{max}$ and $NPQ_{auc}$) were comparable between groups, Treatment B exhibited a much wider dispersion of data points, highlighting highly heterogeneous photoprotective responses across the exposed platform niche.
