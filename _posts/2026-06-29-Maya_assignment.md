@@ -64,8 +64,7 @@ Digital images of the dishes were captured. While the acclimated dish was underg
 
 Figure 5: Specimens set on the dishes
 <img width="3312" height="1610" alt="specimens_plates" src="https://github.com/user-attachments/assets/5394c828-1319-4166-88e2-2e5b7030ad2d" />
-
-Specimens were set on two different petri-dishes. *a* Acclimated; *b* Non-acclimated.
+##### Specimens were set on two different petri-dishes. *a* Acclimated; *b* Non-acclimated.
 
 
 #### Photophysiological Measurements
