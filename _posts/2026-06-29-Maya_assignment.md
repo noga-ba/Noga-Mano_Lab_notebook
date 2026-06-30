@@ -286,7 +286,7 @@ To transition from this rudimentary survey to a rigorous, publishable experiment
 5. **Optimizing small-group collaboration and preparatory workflows:** Implementing a structured preparatory session prior to the field trip is highly recommended. This session should feature an introductory lecture on the intertidal habitat, and co-designed, mentored experimental planning, including standardized data management protocols (As a participant in the current framework, I felt passive and lacked the agency to actively influence the trajectory of the research design).
 
 ### Supplementary information 
-For further methodological details, please review the [Supplementary information](results/photophysiology_report).
+For further methodological details, please review the [Supplementary information](results/photophysiology_report/).
 
 ### References:
 
