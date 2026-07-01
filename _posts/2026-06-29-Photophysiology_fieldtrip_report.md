@@ -3,6 +3,7 @@ layout: post
 title: "Photophysiology fieldtrip report"
 date: 2026-06-29
 ---
+
 Submitted by: Noga Mano | M.Sc student | Research Methods B
 
 ### Background
