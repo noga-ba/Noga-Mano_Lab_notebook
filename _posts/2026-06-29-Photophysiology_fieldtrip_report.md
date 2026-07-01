@@ -129,7 +129,7 @@ Formula:
 2. **ETRmax**
 
 *Description:* Maximum Electron Transport Rate. The maximum speed of the system at work (Light) = the metabolic power/capacity of the algae.
-*Units:* µmol electrons*m^-2*s^-1
+*Units:* µmol electrons* m^-2*s^-1
 
 (Genty et. al., 1989)
 
