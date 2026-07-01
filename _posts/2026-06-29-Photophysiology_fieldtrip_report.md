@@ -3,17 +3,9 @@ layout: post
 title: "Photophysiology fieldtrip report"
 date: 2026-06-29
 ---
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']]
-    }
-  };
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/dist/es5/tex-mml-chtml.js">
-</script>
-
 
 Submitted by: Noga Mano | M.Sc student | Research Methods B
 
