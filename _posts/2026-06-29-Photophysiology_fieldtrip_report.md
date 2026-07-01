@@ -286,7 +286,7 @@ To transition from this rudimentary survey to a rigorous, publishable experiment
 
 ### Supplementary information 
 
-For further details, see [Supplementary information](/results/photophysiology/).
+For further details, see [Supplementary information](/results/photophysiology_report/).
 
 ### References:
 
