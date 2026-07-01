@@ -47,7 +47,7 @@ A). The abrasion platforms surface: algae fully exposed to natural, unshaded sun
 
 
 
-<img width="4608" height="3456" alt="abrasion_platform_view" src="https://github.com/user-attachments/assets/34a699c3-1429-4342-84e4-e9120914bea5" />
+<img width="100%" alt="abrasion_platform_view" src="https://github.com/user-attachments/assets/34a699c3-1429-4342-84e4-e9120914bea5" />
 
 ##### **Figure 2: Abrasion platforms, Sdot Yam**
 
@@ -57,7 +57,7 @@ B). A deep rock pool of approximately 1 m depth, within the abrasion platforms. 
 
 
 
-<img width="4608" height="3456" alt="pool" src="https://github.com/user-attachments/assets/91ad918d-3638-462e-9314-64ea3e759fef" />
+<img width="100%" alt="pool" src="https://github.com/user-attachments/assets/91ad918d-3638-462e-9314-64ea3e759fef" />
 
 ##### **Figure 3: The rock pool**
 
@@ -69,7 +69,7 @@ Macroalgae were identified using "Field Identification Boards" and personal prev
 
 
 
-<img width="2191" height="2899" alt="macroalgae" src="https://github.com/user-attachments/assets/0543ab27-dd0b-4e73-9f66-ac077c9a8e47" />
+<img width="500" alt="macroalgae" src="https://github.com/user-attachments/assets/0543ab27-dd0b-4e73-9f66-ac077c9a8e47" />
 
 ##### **Figure 4: Field Identification Boards**
 
@@ -85,7 +85,7 @@ Digital images of the dishes were captured. While the "Chronic high-light" dish 
 
 
 
-<img width="3312" height="1610" alt="specimens_plates" src="https://github.com/user-attachments/assets/5394c828-1319-4166-88e2-2e5b7030ad2d" />
+<img width="100%" alt="specimens_plates" src="https://github.com/user-attachments/assets/5394c828-1319-4166-88e2-2e5b7030ad2d" />
 
 ##### **Figure 5: Specimens set on the dishes**
 ##### Specimens were set on two different petri-dishes. *a* Chronic high-light; *b* Dynamic light regime.
@@ -230,7 +230,7 @@ To verify the prerequisites required for parametric statistical testing, normal 
 
 
 
-<img width="1740" height="1050" alt="qqplot" src="https://github.com/user-attachments/assets/2f6ad66f-ec06-4386-b0e3-e0946c1f931e" />
+<img width="100%" alt="qqplot" src="https://github.com/user-attachments/assets/2f6ad66f-ec06-4386-b0e3-e0946c1f931e" />
 
 ##### **Figure 6: Normal Quantile-Quantile (Q-Q) plots for photophysiological parameters**
 
@@ -242,7 +242,7 @@ Photophysiological profiling revealed contrasting photosynthetic strategies and 
 
 
 
-<img width="3786" height="2328" alt="photophysiology_boxplot" src="https://github.com/user-attachments/assets/934db649-2575-469f-8fbf-fe820b8712c7" />
+<img width="100%" alt="photophysiology_boxplot" src="https://github.com/user-attachments/assets/934db649-2575-469f-8fbf-fe820b8712c7" />
 
 ##### **Figure 7: The effect pf light regime on photophysiology parameters in macroalgae grown on abrasion platforms offshore Sdot Yam, eastern Mediterranean, Israel**
 
