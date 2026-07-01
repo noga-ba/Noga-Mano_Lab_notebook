@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Macroalgae Photophysiology Field Excersize Report"
+title: "Photophysiology fieldtrip report"
 date: 2026-06-29
 ---
-
 Submitted by: Noga Mano | M.Sc student | Research Methods B
 
 ### Background
