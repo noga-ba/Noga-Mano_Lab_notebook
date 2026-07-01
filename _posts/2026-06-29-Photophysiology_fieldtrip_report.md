@@ -3,9 +3,6 @@ layout: post
 title: "Photophysiology fieldtrip report"
 date: 2026-06-29
 ---
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 
 Submitted by: Noga Mano | M.Sc student | Research Methods B
 
@@ -301,3 +298,7 @@ Schreiber, U., Schliwa, U., & Bilger, W. (1986). Continuous recording of photoch
 Wickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York.
 
 Wickham, H., François, R., Bryan, J., & Müller, K. (2023). dplyr: A Grammar of Data Manipulation. R package version 1.1.4. https://CRAN.R-project.org/package=dplyr 
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
