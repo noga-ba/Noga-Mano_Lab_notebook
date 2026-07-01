@@ -35,7 +35,7 @@ Specimens were collected on April 16th, 2026, from the abrasion platforms at Sdo
 
 
 
-<img width="2530" height="997" alt="study_site" src="https://github.com/user-attachments/assets/8f22b240-b9b1-4f98-b4f9-8ec01612eea1" />
+<img width="100%" alt="study_site" src="https://github.com/user-attachments/assets/8f22b240-b9b1-4f98-b4f9-8ec01612eea1" />
 
 ##### **Figure 1: Study site**
 
