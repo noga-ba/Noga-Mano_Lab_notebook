@@ -13,5 +13,16 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+  <script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/dist/es5/tex-mml-chtml.js">
+</script>
+
   {% include disqus.html %}
 </article>
